@@ -1,0 +1,19 @@
+name: Fetch and Save Files
+
+on:  # Triggers
+  schedule:
+    - cron: '*/10 * * * *'
+
+jobs:
+  fetch_files:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Fetch files and save
+        run: |
+          curl -O https://geoproxy.in/proxies/HTTP.txt
+          curl -O https://geoproxy.in/proxies/SOCKS4.txt
+          curl -O https://geoproxy.in/proxies/SOCKS5.txt
