@@ -1,4 +1,4 @@
-name: Fetch and Save Files
+name: Fetch, Save, and Commit Files
 
 on:  # Triggers
   schedule:
@@ -17,3 +17,11 @@ jobs:
           curl -O https://geoproxy.in/proxies/HTTP.txt
           curl -O https://geoproxy.in/proxies/SOCKS4.txt
           curl -O https://geoproxy.in/proxies/SOCKS5.txt
+
+      - name: Commit changes
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add .
+          git commit -m "Update files"
+          git push 
