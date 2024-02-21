@@ -2,7 +2,7 @@ name: Fetch, Save, and Commit Files
 
 on:  # Triggers
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '0 * * * *'
 
 jobs:
   fetch_files:
