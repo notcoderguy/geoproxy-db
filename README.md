@@ -44,7 +44,7 @@ IP [1]
 ```
 
 ### API
-[GeoProxy](https://geoproxy.in/) provides a free, robust [API](https://api.geoproxy.in/) to narrow down the proxy to your desired specification.
+[GeoProxy](https://geoproxy.in/) provides a free, robust [API](https://geoproxy.in/api) to narrow down the proxy to your desired specification.
 
 ```bash
 #######################################################################
@@ -63,13 +63,13 @@ IP [1]
 #######################################################################
 # Retrieve one(1) socks5 proxy.                                       #
 #######################################################################
-curl "https://api.geoproxy.in/socks5?amount=1&format=txt"
+curl "https://geoproxy.in/api/socks5?amount=1&format=txt"
 > 162.241.46.40:56241
 
 #######################################################################
 # Retrieve two(2) http proxies from the US that support https.        #
 #######################################################################
-curl "https://api.geoproxy.in/http?amount=2&format=txt"
+curl "https://geoproxy.in/api/http?amount=2&format=txt"
 > 80.80.163.190:46276
 > 114.132.202.80:8080
 ```

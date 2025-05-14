@@ -2,7 +2,7 @@ name: Fetch, Save, and Commit Files
 
 on:  # Triggers
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 */6 * * *'  # Every 6 hours
 
 jobs:
   fetch_files:
@@ -12,16 +12,29 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
+      - name: Create folders
+        run: |
+          mkdir -p txt json csv
+
       - name: Fetch files and save
         run: |
-          curl -O https://geoproxy.in/proxies/HTTP.txt
-          curl -O https://geoproxy.in/proxies/SOCKS4.txt
-          curl -O https://geoproxy.in/proxies/SOCKS5.txt
+          # HTTP
+          curl -o txt/http.txt https://geoproxy.in/proxies/http_proxies.txt
+          curl -o json/http.json https://geoproxy.in/proxies/http_proxies.json
+          curl -o csv/http.csv https://geoproxy.in/proxies/http_proxies.csv
+          # SOCKS4
+          curl -o txt/socks4.txt https://geoproxy.in/proxies/socks4_proxies.txt
+          curl -o json/socks4.json https://geoproxy.in/proxies/socks4_proxies.json
+          curl -o csv/socks4.csv https://geoproxy.in/proxies/socks4_proxies.csv
+          # SOCKS5
+          curl -o txt/socks5.txt https://geoproxy.in/proxies/socks5_proxies.txt
+          curl -o json/socks5.json https://geoproxy.in/proxies/socks5_proxies.json
+          curl -o csv/socks5.csv https://geoproxy.in/proxies/socks5_proxies.csv
 
       - name: Commit changes
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add .
-          git commit -m "Update files"
-          git push 
+          git add proxies/
+          git commit -m "Update proxy files in txt, json, and csv formats"
+          git push
