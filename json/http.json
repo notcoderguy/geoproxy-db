@@ -1,26 +1,17 @@
 [
   {
     "proxy": "57.129.81.201:999",
-    "response_time": "1786.13686561584",
-    "google_pass": "1",
-    "anonymity": "Elite",
+    "response_time": "2250.63490867615",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
     "country": "DE",
     "city": "Frankfurt am Main",
     "isp": "OVH SAS"
   },
   {
-    "proxy": "35.234.154.79:10005",
-    "response_time": "2107.2564125061",
-    "google_pass": "1",
-    "anonymity": "Elite",
-    "country": "GB",
-    "city": "London",
-    "isp": "GOOGLE-CLOUD-PLATFORM"
-  },
-  {
     "proxy": "157.175.84.251:1080",
-    "response_time": "2697.50332832336",
-    "google_pass": "1",
+    "response_time": "2168.03979873657",
+    "google_pass": "0",
     "anonymity": "Elite",
     "country": "BH",
     "city": "Unknown",
@@ -28,16 +19,16 @@
   },
   {
     "proxy": "40.172.232.213:8787",
-    "response_time": "5329.56314086914",
+    "response_time": "1925.98748207092",
     "google_pass": "0",
-    "anonymity": "Elite",
+    "anonymity": "Anonymous",
     "country": "AE",
     "city": "Dubai",
     "isp": "AMAZON-02"
   },
   {
     "proxy": "101.251.204.174:8080",
-    "response_time": "4258.70823860168",
+    "response_time": "3274.95360374451",
     "google_pass": "0",
     "anonymity": "Anonymous",
     "country": "CN",
@@ -46,7 +37,7 @@
   },
   {
     "proxy": "35.182.24.10:3128",
-    "response_time": "4135.94722747803",
+    "response_time": "3251.40810012817",
     "google_pass": "0",
     "anonymity": "Anonymous",
     "country": "CA",
@@ -55,151 +46,88 @@
   },
   {
     "proxy": "57.129.81.201:8081",
-    "response_time": "1597.29194641113",
-    "google_pass": "1",
-    "anonymity": "Elite",
+    "response_time": "2148.64563941956",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
     "country": "DE",
     "city": "Frankfurt am Main",
     "isp": "OVH SAS"
   },
   {
-    "proxy": "103.217.224.75:8082",
-    "response_time": "2063.93051147461",
+    "proxy": "176.9.238.155:16379",
+    "response_time": "4716.9246673584",
     "google_pass": "1",
-    "anonymity": "Elite",
-    "country": "ID",
-    "city": "Ungaran",
-    "isp": "PT Nesta Indo Media"
+    "anonymity": "Anonymous",
+    "country": "DE",
+    "city": "Falkenstein",
+    "isp": "Hetzner Online GmbH"
   },
   {
-    "proxy": "103.245.109.57:39355",
-    "response_time": "2338.43040466309",
+    "proxy": "63.151.67.7:8080",
+    "response_time": "9944.22960281372",
     "google_pass": "0",
     "anonymity": "Anonymous",
-    "country": "BD",
-    "city": "Unknown",
-    "isp": "ACE IT Networks Limited"
+    "country": "US",
+    "city": "Hayden",
+    "isp": "VISIONARY"
   },
   {
-    "proxy": "38.49.153.22:999",
-    "response_time": "6389.15324211121",
-    "google_pass": "1",
-    "anonymity": "Anonymous",
-    "country": "MX",
-    "city": "Venado",
-    "isp": "IENTC S DE RL DE CV"
-  },
-  {
-    "proxy": "120.28.194.248:8282",
-    "response_time": "6493.78752708435",
+    "proxy": "103.191.129.245:8020",
+    "response_time": "1935.24742126465",
     "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "PH",
-    "city": "Quezon",
-    "isp": "Globe Telecom Inc."
-  },
-  {
-    "proxy": "202.47.188.193:7777",
-    "response_time": "4560.06360054016",
-    "google_pass": "1",
     "anonymity": "Anonymous",
     "country": "ID",
-    "city": "Madiun",
-    "isp": "Lintas Data Prima, PT"
-  },
-  {
-    "proxy": "45.4.202.170:999",
-    "response_time": "7630.99241256714",
-    "google_pass": "0",
-    "anonymity": "Elite",
-    "country": "EC",
-    "city": "Guayaquil",
-    "isp": "Eliana Vanessa Morocho Ona"
+    "city": "Depok",
+    "isp": "PT Metro Ring Bersama"
   },
   {
     "proxy": "103.242.104.178:8080",
-    "response_time": "3344.42853927612",
-    "google_pass": "1",
+    "response_time": "4101.63474082947",
+    "google_pass": "0",
     "anonymity": "Anonymous",
     "country": "ID",
     "city": "Unknown",
     "isp": "PT Lintas Jaringan Nusantara"
   },
   {
-    "proxy": "27.147.129.26:58080",
-    "response_time": "7454.70213890076",
+    "proxy": "36.64.37.18:89",
+    "response_time": "6110.06641387939",
     "google_pass": "0",
     "anonymity": "Anonymous",
-    "country": "BD",
-    "city": "Dhaka",
-    "isp": "Link3 Technologies Ltd."
+    "country": "ID",
+    "city": "Jakarta",
+    "isp": "PT Telekomunikasi Indonesia"
   },
   {
-    "proxy": "149.86.151.156:8080",
-    "response_time": "3651.52168273926",
-    "google_pass": "1",
-    "anonymity": "Anonymous",
-    "country": "TR",
-    "city": "Istanbul",
-    "isp": "Gibirnet Iletisim Hizmetleri Sanayi Ve Ticaret Limited Sirketi"
-  },
-  {
-    "proxy": "190.145.194.210:8080",
-    "response_time": "7640.72561264038",
+    "proxy": "109.127.82.4:8085",
+    "response_time": "9305.12571334839",
     "google_pass": "0",
     "anonymity": "Anonymous",
-    "country": "CO",
-    "city": "Bogot\u00e1",
-    "isp": "Telmex Colombia S.A."
+    "country": "IQ",
+    "city": "Erbil",
+    "isp": "Allay Nawroz Telecom Company for Communication/Ltd."
   },
   {
-    "proxy": "119.92.255.3:3128",
-    "response_time": "6155.77411651611",
+    "proxy": "103.68.214.113:8787",
+    "response_time": "9218.91808509827",
     "google_pass": "0",
     "anonymity": "Anonymous",
-    "country": "PH",
-    "city": "Sibonga",
-    "isp": "Philippine Long Distance Telephone Company"
+    "country": "ID",
+    "city": "Unknown",
+    "isp": "PT Media Grasi Internet"
   },
   {
-    "proxy": "200.115.100.33:8080",
-    "response_time": "6845.29972076416",
+    "proxy": "128.199.113.85:9090",
+    "response_time": "898.656129837036",
     "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "BR",
-    "city": "S\u00e3o Paulo",
-    "isp": "FiberPon telecom"
-  },
-  {
-    "proxy": "159.112.136.219:18081",
-    "response_time": "3535.93397140503",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "CL",
-    "city": "Santiago",
-    "isp": "ORACLE-BMC-31898"
-  },
-  {
-    "proxy": "193.30.13.186:8080",
-    "response_time": "2781.92901611328",
-    "google_pass": "1",
     "anonymity": "Elite",
-    "country": "EC",
-    "city": "Guayaquil",
-    "isp": "Eliana Vanessa Morocho Ona"
-  },
-  {
-    "proxy": "201.174.239.25:8080",
-    "response_time": "2439.79787826538",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "MX",
-    "city": "Reynosa",
-    "isp": "TRANSTELCO-INC"
+    "country": "SG",
+    "city": "Singapore",
+    "isp": "DIGITALOCEAN-ASN"
   },
   {
     "proxy": "57.129.81.201:8080",
-    "response_time": "1847.46408462524",
+    "response_time": "2179.49509620667",
     "google_pass": "0",
     "anonymity": "Elite",
     "country": "DE",
@@ -207,80 +135,35 @@
     "isp": "OVH SAS"
   },
   {
-    "proxy": "62.33.53.248:3128",
-    "response_time": "2112.0274066925",
-    "google_pass": "0",
-    "anonymity": "Elite",
-    "country": "RU",
-    "city": "Yakutsk",
-    "isp": "Joint Stock Company TransTeleCom"
-  },
-  {
-    "proxy": "146.190.80.158:9090",
-    "response_time": "892.601251602173",
-    "google_pass": "0",
-    "anonymity": "Elite",
-    "country": "SG",
-    "city": "Singapore",
-    "isp": "DIGITALOCEAN-ASN"
-  },
-  {
-    "proxy": "192.81.129.252:3135",
-    "response_time": "3997.08342552185",
-    "google_pass": "0",
+    "proxy": "172.232.226.153:3128",
+    "response_time": "8188.63725662231",
+    "google_pass": "1",
     "anonymity": "Anonymous",
-    "country": "US",
-    "city": "Fremont",
+    "country": "ID",
+    "city": "Jakarta",
     "isp": "Akamai Connected Cloud"
   },
   {
-    "proxy": "13.40.33.253:3128",
-    "response_time": "6732.49959945679",
+    "proxy": "18.61.174.7:3128",
+    "response_time": "2874.10831451416",
     "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "GB",
-    "city": "London",
+    "anonymity": "Elite",
+    "country": "IN",
+    "city": "Hyderabad",
     "isp": "AMAZON-02"
   },
   {
-    "proxy": "128.199.114.189:9090",
-    "response_time": "2150.53153038025",
-    "google_pass": "1",
-    "anonymity": "Elite",
-    "country": "SG",
-    "city": "Singapore",
-    "isp": "DIGITALOCEAN-ASN"
-  },
-  {
-    "proxy": "222.59.173.105:45177",
-    "response_time": "6790.02690315247",
-    "google_pass": "0",
-    "anonymity": "Elite",
-    "country": "CN",
-    "city": "Unknown",
-    "isp": "China Mobile communications corporation"
-  },
-  {
     "proxy": "176.34.192.17:3128",
-    "response_time": "3378.75318527222",
-    "google_pass": "0",
-    "anonymity": "Elite",
+    "response_time": "4723.49381446838",
+    "google_pass": "1",
+    "anonymity": "Anonymous",
     "country": "IE",
     "city": "Dublin",
     "isp": "AMAZON-02"
   },
   {
-    "proxy": "35.159.31.44:3128",
-    "response_time": "4721.02570533752",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "DE",
-    "city": "Frankfurt am Main",
-    "isp": "AMAZON-02"
-  },
-  {
     "proxy": "194.183.190.10:8080",
-    "response_time": "1878.40366363525",
+    "response_time": "1966.66789054871",
     "google_pass": "1",
     "anonymity": "Elite",
     "country": "UA",
@@ -288,18 +171,9 @@
     "isp": "scientific-industrial Firm volz Limited Liability Company"
   },
   {
-    "proxy": "128.199.253.195:9090",
-    "response_time": "3046.33903503418",
-    "google_pass": "1",
-    "anonymity": "Elite",
-    "country": "SG",
-    "city": "Singapore",
-    "isp": "DIGITALOCEAN-ASN"
-  },
-  {
     "proxy": "38.147.98.190:8080",
-    "response_time": "2699.61833953857",
-    "google_pass": "0",
+    "response_time": "2293.84016990662",
+    "google_pass": "1",
     "anonymity": "Elite",
     "country": "US",
     "city": "Corsicana",
@@ -307,7 +181,7 @@
   },
   {
     "proxy": "201.151.118.157:999",
-    "response_time": "5083.67967605591",
+    "response_time": "2537.34517097473",
     "google_pass": "1",
     "anonymity": "Elite",
     "country": "MX",
@@ -315,98 +189,98 @@
     "isp": "Alestra, S. de R.L. de C.V."
   },
   {
-    "proxy": "199.116.62.148:9999",
-    "response_time": "8787.59670257568",
+    "proxy": "219.251.142.189:3128",
+    "response_time": "1322.4048614502",
     "google_pass": "0",
     "anonymity": "Anonymous",
-    "country": "PR",
-    "city": "San Juan",
-    "isp": "OSNET"
+    "country": "KR",
+    "city": "Anyang-si",
+    "isp": "Korea Internet Security Agency"
   },
   {
-    "proxy": "103.189.254.28:2222",
-    "response_time": "941.867589950562",
-    "google_pass": "0",
+    "proxy": "67.43.228.252:30679",
+    "response_time": "3133.00037384033",
+    "google_pass": "1",
     "anonymity": "Elite",
-    "country": "ID",
-    "city": "Surabaya",
-    "isp": "PT Lintas Daya Nusantara"
-  },
-  {
-    "proxy": "103.156.86.129:8080",
-    "response_time": "5679.72660064697",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "ID",
+    "country": "CA",
     "city": "Unknown",
-    "isp": "PT Chacha Networking System"
+    "isp": "GTCOMM"
   },
   {
-    "proxy": "216.122.181.210:999",
-    "response_time": "7097.20706939697",
+    "proxy": "56.124.106.18:3128",
+    "response_time": "3841.41039848328",
     "google_pass": "0",
     "anonymity": "Anonymous",
-    "country": "DO",
-    "city": "Santiago de los Caballeros",
-    "isp": "PELLEGRINI SKYNET SOLUTIONS SRL"
+    "country": "BR",
+    "city": "S\u00e3o Paulo",
+    "isp": "AMAZON-02"
   },
   {
-    "proxy": "103.196.85.26:8080",
-    "response_time": "1497.15042114258",
+    "proxy": "103.82.37.232:8888",
+    "response_time": "2330.85823059082",
     "google_pass": "0",
     "anonymity": "Anonymous",
+    "country": "VN",
+    "city": "Unknown",
+    "isp": "CLOUDFLY CORPORATION"
+  },
+  {
+    "proxy": "117.103.71.77:8715",
+    "response_time": "2656.13913536072",
+    "google_pass": "1",
+    "anonymity": "Elite",
     "country": "ID",
     "city": "Malang",
-    "isp": "PT Denta Sejahtera Group"
+    "isp": "PT Naraya Telematika"
   },
   {
-    "proxy": "185.200.37.41:8080",
-    "response_time": "2742.10500717163",
+    "proxy": "186.97.138.69:999",
+    "response_time": "5384.05013084412",
     "google_pass": "0",
     "anonymity": "Anonymous",
-    "country": "TR",
-    "city": "Antakya",
-    "isp": "High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti."
+    "country": "CO",
+    "city": "Medell\u00edn",
+    "isp": "Colombia Movil"
   },
   {
-    "proxy": "222.59.173.105:45232",
-    "response_time": "10006.3397884369",
+    "proxy": "181.10.138.226:8083",
+    "response_time": "6503.29208374023",
     "google_pass": "0",
     "anonymity": "Anonymous",
-    "country": "CN",
+    "country": "AR",
+    "city": "Rosario",
+    "isp": "Telecom Argentina S.A."
+  },
+  {
+    "proxy": "103.169.41.236:8080",
+    "response_time": "3526.4835357666",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "ID",
+    "city": "Medan",
+    "isp": "Telnet Indonesia"
+  },
+  {
+    "proxy": "79.111.13.155:50625",
+    "response_time": "4899.65581893921",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "RU",
     "city": "Unknown",
-    "isp": "China Mobile communications corporation"
+    "isp": "PJSC MegaFon"
   },
   {
-    "proxy": "190.52.100.98:999",
-    "response_time": "6756.86717033386",
-    "google_pass": "0",
-    "anonymity": "Elite",
-    "country": "VE",
-    "city": "Caracas",
-    "isp": "AS-GOLD"
-  },
-  {
-    "proxy": "36.136.27.2:4999",
-    "response_time": "7473.98972511292",
+    "proxy": "103.129.201.35:8080",
+    "response_time": "1263.16523551941",
     "google_pass": "0",
     "anonymity": "Anonymous",
-    "country": "CN",
+    "country": "BD",
     "city": "Unknown",
-    "isp": "China Mobile Communications Group Co., Ltd."
-  },
-  {
-    "proxy": "88.1.159.1:3128",
-    "response_time": "4369.18926239014",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "ES",
-    "city": "Taranc\u00f3n",
-    "isp": "Telefonica De Espana S.a.u."
+    "isp": "Weblink Communications Ltd"
   },
   {
     "proxy": "57.129.81.201:3128",
-    "response_time": "1749.16362762451",
+    "response_time": "2169.98434066772",
     "google_pass": "0",
     "anonymity": "Anonymous",
     "country": "DE",
@@ -415,7 +289,7 @@
   },
   {
     "proxy": "15.237.40.19:3128",
-    "response_time": "2785.03680229187",
+    "response_time": "1905.99298477173",
     "google_pass": "0",
     "anonymity": "Anonymous",
     "country": "FR",
@@ -423,26 +297,8 @@
     "isp": "AMAZON-02"
   },
   {
-    "proxy": "23.237.210.82:80",
-    "response_time": "2352.49376296997",
-    "google_pass": "0",
-    "anonymity": "Elite",
-    "country": "US",
-    "city": "Unknown",
-    "isp": "FDCSERVERS"
-  },
-  {
-    "proxy": "147.75.49.154:9400",
-    "response_time": "2350.06260871887",
-    "google_pass": "0",
-    "anonymity": "Elite",
-    "country": "US",
-    "city": "San Jose",
-    "isp": "PACKET"
-  },
-  {
     "proxy": "38.250.126.201:999",
-    "response_time": "2808.12191963196",
+    "response_time": "2812.08395957947",
     "google_pass": "1",
     "anonymity": "Elite",
     "country": "CL",
@@ -451,16 +307,25 @@
   },
   {
     "proxy": "128.199.121.61:9090",
-    "response_time": "765.797853469849",
-    "google_pass": "1",
-    "anonymity": "Elite",
+    "response_time": "1423.99740219116",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
     "country": "SG",
     "city": "Singapore",
     "isp": "DIGITALOCEAN-ASN"
   },
   {
+    "proxy": "80.110.46.203:13001",
+    "response_time": "1608.37888717651",
+    "google_pass": "0",
+    "anonymity": "Elite",
+    "country": "AT",
+    "city": "Vienna",
+    "isp": "T-Mobile Austria GmbH"
+  },
+  {
     "proxy": "43.216.254.130:8001",
-    "response_time": "2229.45189476013",
+    "response_time": "1968.73712539673",
     "google_pass": "0",
     "anonymity": "Anonymous",
     "country": "MY",
@@ -468,26 +333,8 @@
     "isp": "AMAZON-02"
   },
   {
-    "proxy": "43.198.152.3:3128",
-    "response_time": "2579.87546920776",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "HK",
-    "city": "Hong Kong",
-    "isp": "AMAZON-02"
-  },
-  {
-    "proxy": "3.148.186.197:3128",
-    "response_time": "4491.3375377655",
-    "google_pass": "1",
-    "anonymity": "Anonymous",
-    "country": "US",
-    "city": "Columbus",
-    "isp": "AMAZON-02"
-  },
-  {
     "proxy": "37.27.253.44:8093",
-    "response_time": "3434.39793586731",
+    "response_time": "2886.83676719666",
     "google_pass": "0",
     "anonymity": "Elite",
     "country": "FI",
@@ -496,7 +343,7 @@
   },
   {
     "proxy": "3.67.179.136:8443",
-    "response_time": "1606.33397102356",
+    "response_time": "1642.60172843933",
     "google_pass": "0",
     "anonymity": "Anonymous",
     "country": "DE",
@@ -505,16 +352,16 @@
   },
   {
     "proxy": "52.193.148.177:3128",
-    "response_time": "4874.10497665405",
+    "response_time": "3385.75673103333",
     "google_pass": "0",
-    "anonymity": "Elite",
+    "anonymity": "Anonymous",
     "country": "JP",
     "city": "Tokyo",
     "isp": "AMAZON-02"
   },
   {
     "proxy": "47.129.253.163:3128",
-    "response_time": "6357.26952552795",
+    "response_time": "3925.2450466156",
     "google_pass": "0",
     "anonymity": "Anonymous",
     "country": "SG",
@@ -523,25 +370,16 @@
   },
   {
     "proxy": "56.228.9.142:3128",
-    "response_time": "3197.1423625946",
-    "google_pass": "0",
-    "anonymity": "Elite",
+    "response_time": "1775.87199211121",
+    "google_pass": "1",
+    "anonymity": "Anonymous",
     "country": "SE",
     "city": "Stockholm",
     "isp": "AMAZON-02"
   },
   {
-    "proxy": "34.88.57.53:3128",
-    "response_time": "1820.876121521",
-    "google_pass": "1",
-    "anonymity": "Elite",
-    "country": "FI",
-    "city": "Lappeenranta",
-    "isp": "GOOGLE-CLOUD-PLATFORM"
-  },
-  {
-    "proxy": "72.10.160.90:3579",
-    "response_time": "3438.66443634033",
+    "proxy": "72.10.164.178:14407",
+    "response_time": "2691.12229347229",
     "google_pass": "1",
     "anonymity": "Elite",
     "country": "CA",
@@ -549,413 +387,17 @@
     "isp": "GTCOMM"
   },
   {
-    "proxy": "181.48.234.214:8080",
-    "response_time": "2820.82939147949",
-    "google_pass": "1",
-    "anonymity": "Anonymous",
-    "country": "CO",
-    "city": "Bogot\u00e1",
-    "isp": "Telmex Colombia S.A."
-  },
-  {
-    "proxy": "103.173.139.10:8080",
-    "response_time": "986.918449401855",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "ID",
-    "city": "Semarang",
-    "isp": "PT Serayu Multi Connection"
-  },
-  {
-    "proxy": "140.238.184.182:3128",
-    "response_time": "3183.8686466217",
+    "proxy": "54.153.246.81:3128",
+    "response_time": "4703.71603965759",
     "google_pass": "1",
     "anonymity": "Elite",
-    "country": "BR",
-    "city": "S\u00e3o Paulo",
-    "isp": "ORACLE-BMC-31898"
-  },
-  {
-    "proxy": "45.22.209.157:8888",
-    "response_time": "3901.57961845398",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "US",
-    "city": "Miami",
-    "isp": "ATT-INTERNET4"
-  },
-  {
-    "proxy": "67.43.228.251:29013",
-    "response_time": "6458.99128913879",
-    "google_pass": "0",
-    "anonymity": "Elite",
-    "country": "CA",
-    "city": "Unknown",
-    "isp": "GTCOMM"
-  },
-  {
-    "proxy": "85.206.93.105:8080",
-    "response_time": "8500.72312355042",
-    "google_pass": "1",
-    "anonymity": "Elite",
-    "country": "LT",
-    "city": "Kaunas",
-    "isp": "Telia Lietuva, AB"
-  },
-  {
-    "proxy": "115.231.181.40:8128",
-    "response_time": "3993.5929775238",
-    "google_pass": "0",
-    "anonymity": "Elite",
-    "country": "CN",
-    "city": "Unknown",
-    "isp": "NINGBO, ZHEJIANG Province, P.R.China."
-  },
-  {
-    "proxy": "117.161.170.163:9093",
-    "response_time": "13933.3393573761",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "CN",
-    "city": "Unknown",
-    "isp": "China Mobile Communications Group Co., Ltd."
-  },
-  {
-    "proxy": "45.70.201.184:999",
-    "response_time": "8356.59313201904",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "EC",
-    "city": "Yantzaza",
-    "isp": "UFINET PANAMA S.A."
-  },
-  {
-    "proxy": "103.178.86.86:8080",
-    "response_time": "7496.97160720825",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "ID",
-    "city": "Unknown",
-    "isp": "PT Adhi Pradana Makayasa"
-  },
-  {
-    "proxy": "103.180.119.182:8082",
-    "response_time": "4258.43214988708",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "ID",
-    "city": "Gresik",
-    "isp": "PT Persada Data Multimedia"
-  },
-  {
-    "proxy": "37.27.253.44:8089",
-    "response_time": "2669.71063613892",
-    "google_pass": "0",
-    "anonymity": "Elite",
-    "country": "FI",
-    "city": "Helsinki",
-    "isp": "Hetzner Online GmbH"
-  },
-  {
-    "proxy": "35.234.154.79:10004",
-    "response_time": "1654.34193611145",
-    "google_pass": "1",
-    "anonymity": "Elite",
-    "country": "GB",
-    "city": "London",
-    "isp": "GOOGLE-CLOUD-PLATFORM"
-  },
-  {
-    "proxy": "150.230.211.74:8080",
-    "response_time": "1869.5216178894",
-    "google_pass": "0",
-    "anonymity": "Elite",
-    "country": "JP",
-    "city": "Inzai",
-    "isp": "ORACLE-BMC-31898"
-  },
-  {
-    "proxy": "157.20.252.221:8083",
-    "response_time": "8522.09806442261",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "ID",
-    "city": "Tanjung Pinang",
-    "isp": "PT.Global Media Data Prima"
-  },
-  {
-    "proxy": "20.27.15.49:8561",
-    "response_time": "2356.59575462341",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "JP",
-    "city": "Tokyo",
-    "isp": "MICROSOFT-CORP-MSN-AS-BLOCK"
-  },
-  {
-    "proxy": "200.174.198.86:8888",
-    "response_time": "5605.09967803955",
-    "google_pass": "1",
-    "anonymity": "Elite",
-    "country": "BR",
-    "city": "S\u00e3o Paulo",
-    "isp": "CLARO S.A."
-  },
-  {
-    "proxy": "20.27.15.111:8561",
-    "response_time": "6727.43511199951",
-    "google_pass": "1",
-    "anonymity": "Elite",
-    "country": "JP",
-    "city": "Tokyo",
-    "isp": "MICROSOFT-CORP-MSN-AS-BLOCK"
-  },
-  {
-    "proxy": "3.79.237.156:3128",
-    "response_time": "4882.50303268433",
-    "google_pass": "1",
-    "anonymity": "Elite",
-    "country": "DE",
-    "city": "Frankfurt am Main",
-    "isp": "AMAZON-02"
-  },
-  {
-    "proxy": "157.175.224.240:3128",
-    "response_time": "4932.73878097534",
-    "google_pass": "0",
-    "anonymity": "Elite",
-    "country": "BH",
-    "city": "Unknown",
-    "isp": "AMAZON-02"
-  },
-  {
-    "proxy": "54.169.92.92:4983",
-    "response_time": "3696.4430809021",
-    "google_pass": "1",
-    "anonymity": "Elite",
-    "country": "SG",
-    "city": "Singapore",
-    "isp": "AMAZON-02"
-  },
-  {
-    "proxy": "51.44.167.243:9443",
-    "response_time": "3198.96173477173",
-    "google_pass": "0",
-    "anonymity": "Elite",
-    "country": "FR",
-    "city": "Paris",
-    "isp": "AMAZON-02"
-  },
-  {
-    "proxy": "16.26.88.4:52378",
-    "response_time": "3920.32122612",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
     "country": "AU",
-    "city": "Melbourne",
+    "city": "Sydney",
     "isp": "AMAZON-02"
   },
   {
-    "proxy": "13.232.213.216:3128",
-    "response_time": "3758.73327255249",
-    "google_pass": "1",
-    "anonymity": "Elite",
-    "country": "IN",
-    "city": "Mumbai",
-    "isp": "AMAZON-02"
-  },
-  {
-    "proxy": "65.0.17.164:3128",
-    "response_time": "2374.6702671051",
-    "google_pass": "0",
-    "anonymity": "Elite",
-    "country": "IN",
-    "city": "Mumbai",
-    "isp": "AMAZON-02"
-  },
-  {
-    "proxy": "3.141.21.172:3128",
-    "response_time": "4509.05156135559",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "US",
-    "city": "Unknown",
-    "isp": "AMAZON-02"
-  },
-  {
-    "proxy": "103.89.26.173:8080",
-    "response_time": "5959.39517021179",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "BD",
-    "city": "Unknown",
-    "isp": "Gmax"
-  },
-  {
-    "proxy": "102.210.104.1:83",
-    "response_time": "8038.68222236633",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "KE",
-    "city": "Unknown",
-    "isp": "MATRUCHHAYA-CABLE-NETWORK"
-  },
-  {
-    "proxy": "115.84.175.4:8080",
-    "response_time": "3166.83554649353",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "ID",
-    "city": "Unknown",
-    "isp": "PT Citra Angkasa Lintas Media"
-  },
-  {
-    "proxy": "116.0.53.34:8080",
-    "response_time": "5236.86146736145",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "PK",
-    "city": "Unknown",
-    "isp": "Supernet Limited Transit Autonomous System Number"
-  },
-  {
-    "proxy": "103.176.96.178:1111",
-    "response_time": "4998.11720848083",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "ID",
-    "city": "Unknown",
-    "isp": "PT Global Sarana Elektronika"
-  },
-  {
-    "proxy": "95.158.15.161:8080",
-    "response_time": "2054.06546592712",
-    "google_pass": "1",
-    "anonymity": "Anonymous",
-    "country": "UA",
-    "city": "Kyiv",
-    "isp": "Limited Liability Company best Solutions"
-  },
-  {
-    "proxy": "103.36.11.21:8080",
-    "response_time": "6671.90337181091",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "ID",
-    "city": "Cilegon",
-    "isp": "PT Awinet Global Mandiri"
-  },
-  {
-    "proxy": "103.27.22.65:32650",
-    "response_time": "12147.2640037537",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "PK",
-    "city": "Unknown",
-    "isp": "Supernet Limited Transit Autonomous System Number"
-  },
-  {
-    "proxy": "37.27.253.44:8099",
-    "response_time": "2253.56125831604",
-    "google_pass": "0",
-    "anonymity": "Elite",
-    "country": "FI",
-    "city": "Helsinki",
-    "isp": "Hetzner Online GmbH"
-  },
-  {
-    "proxy": "52.221.222.182:80",
-    "response_time": "1003.27825546265",
-    "google_pass": "1",
-    "anonymity": "Anonymous",
-    "country": "SG",
-    "city": "Singapore",
-    "isp": "AMAZON-02"
-  },
-  {
-    "proxy": "59.98.3.132:8042",
-    "response_time": "4909.84869003296",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "IN",
-    "city": "Jamshedpur",
-    "isp": "National Internet Backbone"
-  },
-  {
-    "proxy": "61.164.204.130:4999",
-    "response_time": "3810.1007938385",
-    "google_pass": "0",
-    "anonymity": "Elite",
-    "country": "CN",
-    "city": "Unknown",
-    "isp": "Chinanet"
-  },
-  {
-    "proxy": "203.111.253.106:8080",
-    "response_time": "3192.88086891174",
-    "google_pass": "1",
-    "anonymity": "Anonymous",
-    "country": "ID",
-    "city": "Unknown",
-    "isp": "PT Wifian Global Nusantara"
-  },
-  {
-    "proxy": "200.119.218.94:999",
-    "response_time": "6640.65384864807",
-    "google_pass": "0",
-    "anonymity": "Elite",
-    "country": "BO",
-    "city": "Santa Cruz",
-    "isp": "COTAS LTDA."
-  },
-  {
-    "proxy": "103.238.232.198:8080",
-    "response_time": "4464.17140960693",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "ID",
-    "city": "Unknown",
-    "isp": "PT Digital Netcom Solution"
-  },
-  {
-    "proxy": "3.67.179.136:8060",
-    "response_time": "1795.1648235321",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "DE",
-    "city": "Frankfurt am Main",
-    "isp": "AMAZON-02"
-  },
-  {
-    "proxy": "37.27.253.44:8081",
-    "response_time": "3397.23300933838",
-    "google_pass": "1",
-    "anonymity": "Elite",
-    "country": "FI",
-    "city": "Helsinki",
-    "isp": "Hetzner Online GmbH"
-  },
-  {
-    "proxy": "193.95.53.131:8077",
-    "response_time": "1636.67750358582",
-    "google_pass": "1",
-    "anonymity": "Elite",
-    "country": "TN",
-    "city": "Unknown",
-    "isp": "GLOBALNET-AS"
-  },
-  {
-    "proxy": "103.156.17.39:8818",
-    "response_time": "4696.04706764221",
-    "google_pass": "0",
-    "anonymity": "Elite",
-    "country": "ID",
-    "city": "Unknown",
-    "isp": "RSTNET"
-  },
-  {
-    "proxy": "20.78.26.206:8561",
-    "response_time": "1334.87915992737",
+    "proxy": "20.210.76.175:8561",
+    "response_time": "1863.91448974609",
     "google_pass": "1",
     "anonymity": "Elite",
     "country": "JP",
@@ -963,341 +405,8 @@
     "isp": "MICROSOFT-CORP-MSN-AS-BLOCK"
   },
   {
-    "proxy": "202.93.247.52:8090",
-    "response_time": "3101.36604309082",
-    "google_pass": "0",
-    "anonymity": "Elite",
-    "country": "ID",
-    "city": "Unknown",
-    "isp": "PT. Dutakom Wibawa Putra"
-  },
-  {
-    "proxy": "54.199.199.66:3128",
-    "response_time": "5413.37561607361",
-    "google_pass": "0",
-    "anonymity": "Elite",
-    "country": "JP",
-    "city": "Tokyo",
-    "isp": "AMAZON-02"
-  },
-  {
-    "proxy": "194.31.55.104:3128",
-    "response_time": "2936.1846446991",
-    "google_pass": "1",
-    "anonymity": "Elite",
-    "country": "LT",
-    "city": "Vilnius",
-    "isp": "Hostinger International Limited"
-  },
-  {
-    "proxy": "112.201.187.177:8083",
-    "response_time": "5707.10039138794",
-    "google_pass": "1",
-    "anonymity": "Anonymous",
-    "country": "PH",
-    "city": "Manila",
-    "isp": "Philippine Long Distance Telephone Company"
-  },
-  {
-    "proxy": "118.70.13.38:41857",
-    "response_time": "1210.74032783508",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "VN",
-    "city": "Hanoi",
-    "isp": "FPT Telecom Company"
-  },
-  {
-    "proxy": "103.67.85.146:3127",
-    "response_time": "2252.85840034485",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "ID",
-    "city": "Unknown",
-    "isp": "PT Tujuh Fondasi Teknologi"
-  },
-  {
-    "proxy": "103.147.134.179:8080",
-    "response_time": "4981.30488395691",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "ID",
-    "city": "Unknown",
-    "isp": "PT.MURNI MAKMUR ABADI"
-  },
-  {
-    "proxy": "201.148.42.22:999",
-    "response_time": "3857.14411735535",
-    "google_pass": "1",
-    "anonymity": "Anonymous",
-    "country": "MX",
-    "city": "Muna",
-    "isp": "Operbes, S.A. de C.V."
-  },
-  {
-    "proxy": "186.96.74.147:999",
-    "response_time": "4327.18849182129",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "PA",
-    "city": "Panama City",
-    "isp": "AS-GOLD"
-  },
-  {
-    "proxy": "157.66.16.36:5568",
-    "response_time": "1871.08445167542",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "ID",
-    "city": "Indramayu",
-    "isp": "PT Mitra Mandiri Network"
-  },
-  {
-    "proxy": "114.9.52.2:1452",
-    "response_time": "5067.65484809875",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "ID",
-    "city": "Unknown",
-    "isp": "INDOSAT Internet Network Provider"
-  },
-  {
-    "proxy": "45.173.7.10:999",
-    "response_time": "6168.88380050659",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "CO",
-    "city": "Zipaquir\u00e1",
-    "isp": "LIBERTY NETWORKS DE COLOMBIA S.A.S"
-  },
-  {
-    "proxy": "85.117.63.38:8080",
-    "response_time": "6851.79257392883",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "GE",
-    "city": "Tbilisi",
-    "isp": "Caucasus Online Ltd."
-  },
-  {
-    "proxy": "117.247.233.50:8080",
-    "response_time": "3597.30529785156",
-    "google_pass": "0",
-    "anonymity": "Elite",
-    "country": "IN",
-    "city": "Unknown",
-    "isp": "National Internet Backbone"
-  },
-  {
-    "proxy": "103.110.10.198:702",
-    "response_time": "5743.81375312805",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "ID",
-    "city": "Babakangarut",
-    "isp": "PT Citra Jelajah Informatika"
-  },
-  {
-    "proxy": "103.155.198.183:8080",
-    "response_time": "1663.29431533813",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "ID",
-    "city": "Bandung",
-    "isp": "PT Lintas Jaringan Nusantara"
-  },
-  {
-    "proxy": "103.48.71.50:83",
-    "response_time": "6215.76261520386",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "IN",
-    "city": "Unknown",
-    "isp": "Country Online Services PVT LTD"
-  },
-  {
-    "proxy": "46.34.165.86:443",
-    "response_time": "2475.90088844299",
-    "google_pass": "0",
-    "anonymity": "Elite",
-    "country": "IR",
-    "city": "Unknown",
-    "isp": "Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS"
-  },
-  {
-    "proxy": "157.100.56.12:8080",
-    "response_time": "5012.07160949707",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "EC",
-    "city": "Cariamanga",
-    "isp": "UFINET PANAMA S.A."
-  },
-  {
-    "proxy": "157.66.84.24:1983",
-    "response_time": "2737.46943473816",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "ID",
-    "city": "Unknown",
-    "isp": "PT. Menaksopal Link Nusantara"
-  },
-  {
-    "proxy": "128.199.120.45:9090",
-    "response_time": "1095.75414657593",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "SG",
-    "city": "Singapore",
-    "isp": "DIGITALOCEAN-ASN"
-  },
-  {
-    "proxy": "128.199.254.13:9090",
-    "response_time": "931.323528289795",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "SG",
-    "city": "Singapore",
-    "isp": "DIGITALOCEAN-ASN"
-  },
-  {
-    "proxy": "63.178.13.177:2184",
-    "response_time": "2849.17879104614",
-    "google_pass": "0",
-    "anonymity": "Elite",
-    "country": "DE",
-    "city": "Frankfurt am Main",
-    "isp": "AMAZON-02"
-  },
-  {
-    "proxy": "16.24.74.162:54223",
-    "response_time": "4508.66961479187",
-    "google_pass": "1",
-    "anonymity": "Anonymous",
-    "country": "BH",
-    "city": "Unknown",
-    "isp": "AMAZON-02"
-  },
-  {
-    "proxy": "41.33.142.182:8081",
-    "response_time": "4004.5006275177",
-    "google_pass": "1",
-    "anonymity": "Anonymous",
-    "country": "EG",
-    "city": "Cairo",
-    "isp": "TE Data"
-  },
-  {
-    "proxy": "103.151.247.235:7777",
-    "response_time": "4109.23862457275",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "ID",
-    "city": "Unknown",
-    "isp": "PT MEDIA MANAKARRA NET"
-  },
-  {
-    "proxy": "61.91.162.126:8080",
-    "response_time": "1086.87782287598",
-    "google_pass": "1",
-    "anonymity": "Elite",
-    "country": "TH",
-    "city": "Nonthaburi",
-    "isp": "TRUE INTERNET Co.,Ltd."
-  },
-  {
-    "proxy": "103.168.149.48:8181",
-    "response_time": "1125.96893310547",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "ID",
-    "city": "Pematangsiantar",
-    "isp": "TORSADA"
-  },
-  {
-    "proxy": "120.28.218.160:5050",
-    "response_time": "5404.23607826233",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "PH",
-    "city": "Cagayan de Oro",
-    "isp": "Globe Telecom Inc."
-  },
-  {
-    "proxy": "125.18.28.54:8080",
-    "response_time": "3975.88324546814",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "IN",
-    "city": "Pune",
-    "isp": "BHARTI Airtel Ltd."
-  },
-  {
-    "proxy": "103.139.98.69:8080",
-    "response_time": "7222.81527519226",
-    "google_pass": "0",
-    "anonymity": "Elite",
-    "country": "ID",
-    "city": "Unknown",
-    "isp": "PT. DIGITAL NETWORK SETIAWAN"
-  },
-  {
-    "proxy": "103.39.51.207:8080",
-    "response_time": "6229.12001609802",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "ID",
-    "city": "Kuningan",
-    "isp": "PT Mega Mentari Mandiri"
-  },
-  {
-    "proxy": "46.161.194.74:8085",
-    "response_time": "4964.7912979126",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "IQ",
-    "city": "Unknown",
-    "isp": "Valin Company for General Trading and Communication LTD"
-  },
-  {
-    "proxy": "185.138.120.109:8080",
-    "response_time": "4166.11862182617",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "IQ",
-    "city": "Unknown",
-    "isp": "Horizon Scope Mobile Telecom WLL"
-  },
-  {
-    "proxy": "54.245.37.59:3128",
-    "response_time": "3347.01037406921",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "US",
-    "city": "Boardman",
-    "isp": "AMAZON-02"
-  },
-  {
-    "proxy": "15.223.66.137:3128",
-    "response_time": "2895.3115940094",
-    "google_pass": "1",
-    "anonymity": "Anonymous",
-    "country": "CA",
-    "city": "Montreal",
-    "isp": "AMAZON-02"
-  },
-  {
-    "proxy": "3.145.16.157:3128",
-    "response_time": "4980.00979423523",
-    "google_pass": "0",
-    "anonymity": "Elite",
-    "country": "US",
-    "city": "Columbus",
-    "isp": "AMAZON-02"
-  },
-  {
-    "proxy": "180.149.232.253:6147",
-    "response_time": "3698.06838035583",
+    "proxy": "180.149.234.74:6214",
+    "response_time": "2393.07475090027",
     "google_pass": "0",
     "anonymity": "Anonymous",
     "country": "BD",
@@ -1305,71 +414,116 @@
     "isp": "Digi Jadoo Broadband Ltd"
   },
   {
-    "proxy": "201.150.116.3:999",
-    "response_time": "9457.85784721375",
+    "proxy": "38.172.128.104:999",
+    "response_time": "8331.86483383179",
     "google_pass": "0",
     "anonymity": "Anonymous",
-    "country": "MX",
-    "city": "Unknown",
-    "isp": "Unknown"
+    "country": "PE",
+    "city": "Lima region",
+    "isp": "CONEX TV E.I.R.L."
   },
   {
-    "proxy": "103.203.234.13:8181",
-    "response_time": "6906.17942810059",
+    "proxy": "181.48.234.214:8080",
+    "response_time": "7015.94734191895",
     "google_pass": "0",
     "anonymity": "Anonymous",
-    "country": "ID",
-    "city": "Unknown",
-    "isp": "PT Nesta Indo Media"
+    "country": "CO",
+    "city": "Bogot\u00e1",
+    "isp": "Telmex Colombia S.A."
   },
   {
-    "proxy": "85.185.206.195:3131",
-    "response_time": "5293.75720024109",
+    "proxy": "187.61.98.7:8080",
+    "response_time": "8538.99121284485",
     "google_pass": "0",
     "anonymity": "Anonymous",
-    "country": "IR",
-    "city": "Unknown",
-    "isp": "Iran Telecommunication Company PJS"
+    "country": "BR",
+    "city": "Palmeir\u00e2ndia",
+    "isp": "CINTE Telecom Comercio e Servicos Ltda."
   },
   {
-    "proxy": "103.53.78.165:8050",
-    "response_time": "4243.71862411499",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "ID",
-    "city": "Unknown",
-    "isp": "PT Inti Data Telematika"
-  },
-  {
-    "proxy": "121.101.131.142:8181",
-    "response_time": "2133.10194015503",
+    "proxy": "103.172.42.81:8080",
+    "response_time": "1987.67757415771",
     "google_pass": "0",
     "anonymity": "Anonymous",
     "country": "ID",
-    "city": "Karawang",
-    "isp": "PT SELARAS CITRA TERABIT"
-  },
-  {
-    "proxy": "117.161.170.163:9443",
-    "response_time": "8610.52513122559",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "CN",
     "city": "Unknown",
-    "isp": "China Mobile Communications Group Co., Ltd."
+    "isp": "PT Media Solusi Sukses"
   },
   {
-    "proxy": "90.188.40.191:3128",
-    "response_time": "5292.98710823059",
-    "google_pass": "0",
+    "proxy": "140.238.184.182:3128",
+    "response_time": "4029.05249595642",
+    "google_pass": "1",
     "anonymity": "Elite",
-    "country": "RU",
-    "city": "Ulan-Ude",
-    "isp": "Rostelecom"
+    "country": "BR",
+    "city": "S\u00e3o Paulo",
+    "isp": "ORACLE-BMC-31898"
   },
   {
-    "proxy": "37.27.253.44:8005",
-    "response_time": "6767.35639572144",
+    "proxy": "85.206.93.105:8080",
+    "response_time": "5144.43778991699",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "LT",
+    "city": "Kaunas",
+    "isp": "Telia Lietuva, AB"
+  },
+  {
+    "proxy": "120.28.216.166:8082",
+    "response_time": "5962.68153190613",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "PH",
+    "city": "Cagayan de Oro",
+    "isp": "Globe Telecom Inc."
+  },
+  {
+    "proxy": "103.106.112.166:1234",
+    "response_time": "5197.83401489258",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "ID",
+    "city": "Unknown",
+    "isp": "PT. Sumatra Multimedia Solusi"
+  },
+  {
+    "proxy": "103.126.87.181:7777",
+    "response_time": "5101.97377204895",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "ID",
+    "city": "Unknown",
+    "isp": "PT. Rasi Bintang Perkasa"
+  },
+  {
+    "proxy": "103.162.37.194:8080",
+    "response_time": "7553.83777618408",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "ID",
+    "city": "Bandung",
+    "isp": "PT Lintas Satu Visi"
+  },
+  {
+    "proxy": "185.79.243.74:8080",
+    "response_time": "3720.73817253113",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "PL",
+    "city": "Myszk\u00f3w",
+    "isp": "PHU Kario-Sat Sp. z o.o."
+  },
+  {
+    "proxy": "103.26.109.62:84",
+    "response_time": "5237.94507980347",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "IN",
+    "city": "Kadayanallur",
+    "isp": "Niss Internet services private limited"
+  },
+  {
+    "proxy": "37.27.253.44:8089",
+    "response_time": "2838.90318870544",
     "google_pass": "0",
     "anonymity": "Anonymous",
     "country": "FI",
@@ -1377,296 +531,116 @@
     "isp": "Hetzner Online GmbH"
   },
   {
-    "proxy": "154.73.29.205:8080",
-    "response_time": "5101.91655158997",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "LY",
-    "city": "Unknown",
-    "isp": "General Post and Telecommunication Company"
-  },
-  {
-    "proxy": "65.108.159.129:3128",
-    "response_time": "2595.92533111572",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "FI",
-    "city": "Helsinki",
-    "isp": "Hetzner Online GmbH"
-  },
-  {
-    "proxy": "175.178.136.39:8080",
-    "response_time": "3678.55787277222",
-    "google_pass": "0",
+    "proxy": "150.230.211.74:8080",
+    "response_time": "4907.63688087463",
+    "google_pass": "1",
     "anonymity": "Elite",
-    "country": "CN",
-    "city": "Unknown",
-    "isp": "Shenzhen Tencent Computer Systems Company Limited"
+    "country": "JP",
+    "city": "Inzai",
+    "isp": "ORACLE-BMC-31898"
   },
   {
-    "proxy": "54.235.15.36:3128",
-    "response_time": "3908.8933467865",
+    "proxy": "47.90.205.231:33333",
+    "response_time": "7222.24426269531",
     "google_pass": "0",
     "anonymity": "Elite",
     "country": "US",
-    "city": "Ashburn",
-    "isp": "AMAZON-AES"
-  },
-  {
-    "proxy": "35.182.24.10:10052",
-    "response_time": "6232.34581947327",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "CA",
-    "city": "Montreal",
-    "isp": "AMAZON-02"
-  },
-  {
-    "proxy": "35.180.23.174:3128",
-    "response_time": "1779.98423576355",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "FR",
-    "city": "Paris",
-    "isp": "AMAZON-02"
-  },
-  {
-    "proxy": "198.12.37.6:8080",
-    "response_time": "9165.66681861877",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "AR",
     "city": "Unknown",
-    "isp": "Servicios y Telecomunicaciones S.A."
+    "isp": "Alibaba US Technology Co., Ltd."
   },
   {
-    "proxy": "168.227.40.126:9192",
-    "response_time": "2752.56681442261",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "BR",
-    "city": "Cabo de Santo Agostinho",
-    "isp": "DIGITEC ELETRONICA LTDA - ME"
-  },
-  {
-    "proxy": "190.97.228.64:999",
-    "response_time": "7021.43168449402",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "VE",
-    "city": "Caracas",
-    "isp": "VIGINET C.A"
-  },
-  {
-    "proxy": "117.161.170.163:9025",
-    "response_time": "7665.28654098511",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "CN",
-    "city": "Unknown",
-    "isp": "China Mobile Communications Group Co., Ltd."
-  },
-  {
-    "proxy": "103.81.110.187:8080",
-    "response_time": "2441.93935394287",
+    "proxy": "157.66.16.54:8989",
+    "response_time": "7583.83512496948",
     "google_pass": "0",
     "anonymity": "Anonymous",
     "country": "ID",
-    "city": "Serang",
-    "isp": "PT Fiber Data Nusantara"
+    "city": "Indramayu",
+    "isp": "PT Mitra Mandiri Network"
   },
   {
-    "proxy": "160.187.174.214:8080",
-    "response_time": "2430.41682243347",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "ID",
-    "city": "Deli Serdang",
-    "isp": "PT Netindo Persada Nusantara"
-  },
-  {
-    "proxy": "3.70.46.172:10018",
-    "response_time": "1689.13817405701",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "DE",
-    "city": "Frankfurt am Main",
-    "isp": "AMAZON-02"
-  },
-  {
-    "proxy": "103.119.152.146:8989",
-    "response_time": "1919.60692405701",
+    "proxy": "20.27.15.49:8561",
+    "response_time": "1496.34122848511",
     "google_pass": "0",
     "anonymity": "Elite",
-    "country": "KH",
-    "city": "Unknown",
-    "isp": "BigHub Co.,Ltd"
-  },
-  {
-    "proxy": "56.155.130.244:2656",
-    "response_time": "4424.67212677002",
-    "google_pass": "1",
-    "anonymity": "Anonymous",
     "country": "JP",
-    "city": "Osaka",
-    "isp": "AMAZON-02"
+    "city": "Tokyo",
+    "isp": "MICROSOFT-CORP-MSN-AS-BLOCK"
   },
   {
-    "proxy": "16.51.185.188:3128",
-    "response_time": "3906.34846687317",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "AU",
-    "city": "Melbourne",
-    "isp": "AMAZON-02"
-  },
-  {
-    "proxy": "95.140.112.33:8866",
-    "response_time": "3338.89555931091",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "RS",
-    "city": "Belgrade",
-    "isp": "Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun"
-  },
-  {
-    "proxy": "190.120.252.174:999",
-    "response_time": "4594.29407119751",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "VE",
-    "city": "Valencia",
-    "isp": "CORPORACION FIBEX TELECOM, C.A."
-  },
-  {
-    "proxy": "45.234.83.248:8080",
-    "response_time": "3983.92152786255",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "BR",
-    "city": "Caruaru",
-    "isp": "BOM JESUS NET LTDA"
-  },
-  {
-    "proxy": "38.123.221.131:999",
-    "response_time": "2572.96657562256",
-    "google_pass": "0",
-    "anonymity": "Elite",
-    "country": "MX",
-    "city": "Ixtlahuaca de Ray\u00f3n",
-    "isp": "COGENT-174"
-  },
-  {
-    "proxy": "3.29.67.17:4480",
-    "response_time": "2197.16811180115",
-    "google_pass": "1",
-    "anonymity": "Elite",
-    "country": "AE",
-    "city": "Dubai",
-    "isp": "AMAZON-02"
-  },
-  {
-    "proxy": "37.27.253.44:8004",
-    "response_time": "2628.70478630066",
-    "google_pass": "1",
-    "anonymity": "Elite",
-    "country": "FI",
-    "city": "Helsinki",
-    "isp": "Hetzner Online GmbH"
-  },
-  {
-    "proxy": "43.216.143.179:36955",
-    "response_time": "3820.79434394836",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "MY",
-    "city": "Kuala Lumpur",
-    "isp": "AMAZON-02"
-  },
-  {
-    "proxy": "36.95.245.7:8090",
-    "response_time": "7365.8287525177",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "ID",
-    "city": "South Tangerang",
-    "isp": "PT Telekomunikasi Indonesia"
-  },
-  {
-    "proxy": "103.169.133.118:8085",
-    "response_time": "5664.302110672",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "ID",
-    "city": "Majalengka",
-    "isp": "PT Alfa Omega Interkoneksi"
-  },
-  {
-    "proxy": "103.17.32.254:8080",
-    "response_time": "6251.02710723877",
+    "proxy": "160.22.206.65:8080",
+    "response_time": "3726.54461860657",
     "google_pass": "0",
     "anonymity": "Anonymous",
     "country": "ID",
     "city": "Unknown",
-    "isp": "PT Argiz Mitra Technology"
+    "isp": "PT Teradata Bintang Selaras"
   },
   {
-    "proxy": "103.217.219.37:8080",
-    "response_time": "1407.62162208557",
+    "proxy": "72.10.160.170:27713",
+    "response_time": "3943.52722167969",
+    "google_pass": "1",
+    "anonymity": "Elite",
+    "country": "CA",
+    "city": "Unknown",
+    "isp": "GTCOMM"
+  },
+  {
+    "proxy": "67.43.236.19:5781",
+    "response_time": "3392.36783981323",
+    "google_pass": "1",
+    "anonymity": "Elite",
+    "country": "CA",
+    "city": "Unknown",
+    "isp": "GTCOMM"
+  },
+  {
+    "proxy": "82.129.233.4:1976",
+    "response_time": "4148.89168739319",
+    "google_pass": "1",
+    "anonymity": "Anonymous",
+    "country": "EG",
+    "city": "Cairo",
+    "isp": "RAYA Telecom - Egypt"
+  },
+  {
+    "proxy": "13.245.196.253:3128",
+    "response_time": "4175.73714256287",
+    "google_pass": "1",
+    "anonymity": "Anonymous",
+    "country": "ZA",
+    "city": "Cape Town",
+    "isp": "AMAZON-02"
+  },
+  {
+    "proxy": "13.126.217.46:31285",
+    "response_time": "3338.05537223816",
     "google_pass": "0",
     "anonymity": "Anonymous",
-    "country": "ID",
-    "city": "Bekasi",
-    "isp": "PT. Infotama Lintas Global"
+    "country": "IN",
+    "city": "Mumbai",
+    "isp": "AMAZON-02"
   },
   {
-    "proxy": "103.231.236.217:8182",
-    "response_time": "6016.48783683777",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "ID",
-    "city": "Pemalang",
-    "isp": "PT Level Indodata Teknologi"
-  },
-  {
-    "proxy": "103.63.26.226:8080",
-    "response_time": "3323.01712036133",
+    "proxy": "43.218.138.81:3128",
+    "response_time": "6226.25350952148",
     "google_pass": "0",
     "anonymity": "Elite",
-    "country": "ID",
-    "city": "Probolinggo",
-    "isp": "PT.Global Media Data Prima"
-  },
-  {
-    "proxy": "31.14.114.68:1081",
-    "response_time": "2561.65671348572",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "IR",
-    "city": "Unknown",
-    "isp": "Afranet"
-  },
-  {
-    "proxy": "157.20.253.43:8989",
-    "response_time": "6507.64918327332",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
     "country": "ID",
     "city": "Jakarta",
-    "isp": "PT.Global Media Data Prima"
+    "isp": "AMAZON-02"
   },
   {
-    "proxy": "173.249.40.64:8118",
-    "response_time": "1877.58946418762",
+    "proxy": "3.141.21.172:3128",
+    "response_time": "6422.39761352539",
     "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "FR",
-    "city": "Lauterbourg",
-    "isp": "Contabo GmbH"
+    "anonymity": "Elite",
+    "country": "US",
+    "city": "Unknown",
+    "isp": "AMAZON-02"
   },
   {
-    "proxy": "177.93.39.73:999",
-    "response_time": "7022.89485931396",
+    "proxy": "186.179.103.249:999",
+    "response_time": "7194.36717033386",
     "google_pass": "0",
     "anonymity": "Anonymous",
     "country": "CO",
@@ -1674,71 +648,53 @@
     "isp": "TV AZTECA SUCURSAL COLOMBIA"
   },
   {
-    "proxy": "37.27.253.44:8098",
-    "response_time": "2389.67132568359",
-    "google_pass": "0",
-    "anonymity": "Elite",
-    "country": "FI",
-    "city": "Helsinki",
-    "isp": "Hetzner Online GmbH"
-  },
-  {
-    "proxy": "202.154.18.56:8080",
-    "response_time": "3928.28869819641",
+    "proxy": "58.69.222.240:8082",
+    "response_time": "6826.61509513855",
     "google_pass": "0",
     "anonymity": "Anonymous",
-    "country": "ID",
-    "city": "Jombang",
-    "isp": "PT Digital Media Telematika"
+    "country": "PH",
+    "city": "Cebu City",
+    "isp": "Philippine Long Distance Telephone Company"
   },
   {
-    "proxy": "37.27.253.44:8034",
-    "response_time": "3198.73905181885",
-    "google_pass": "1",
-    "anonymity": "Elite",
-    "country": "FI",
-    "city": "Helsinki",
-    "isp": "Hetzner Online GmbH"
-  },
-  {
-    "proxy": "37.27.253.44:8031",
-    "response_time": "2790.90642929077",
-    "google_pass": "0",
-    "anonymity": "Elite",
-    "country": "FI",
-    "city": "Helsinki",
-    "isp": "Hetzner Online GmbH"
-  },
-  {
-    "proxy": "3.29.67.201:3128",
-    "response_time": "3685.14704704285",
+    "proxy": "45.225.120.36:40033",
+    "response_time": "3890.01560211182",
     "google_pass": "0",
     "anonymity": "Anonymous",
-    "country": "AE",
-    "city": "Dubai",
-    "isp": "AMAZON-02"
+    "country": "BR",
+    "city": "Paripiranga",
+    "isp": "CENTROSULNET INFORMATICA EIRELI"
   },
   {
-    "proxy": "37.27.253.44:8074",
-    "response_time": "1964.59245681763",
+    "proxy": "190.8.34.212:999",
+    "response_time": "4776.80802345276",
     "google_pass": "0",
-    "anonymity": "Elite",
-    "country": "FI",
-    "city": "Helsinki",
-    "isp": "Hetzner Online GmbH"
+    "anonymity": "Anonymous",
+    "country": "DO",
+    "city": "Santo Domingo",
+    "isp": "AS-TRILOGY-DOMINICANA"
   },
   {
-    "proxy": "13.212.185.138:3128",
-    "response_time": "7722.80502319336",
+    "proxy": "119.94.116.130:8081",
+    "response_time": "2841.8869972229",
     "google_pass": "0",
-    "anonymity": "Elite",
-    "country": "SG",
-    "city": "Singapore",
-    "isp": "AMAZON-02"
+    "anonymity": "Anonymous",
+    "country": "PH",
+    "city": "Santa Maria",
+    "isp": "Philippine Long Distance Telephone Company"
   },
   {
-    "proxy": "67.43.236.18:17457",
-    "response_time": "3655.10368347168",
+    "proxy": "200.215.248.112:999",
+    "response_time": "8321.24066352844",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "PE",
+    "city": "San Juan de Lurigancho",
+    "isp": "COMPUNETWORK S.A.C."
+  },
+  {
+    "proxy": "67.43.236.21:19937",
+    "response_time": "3413.59090805054",
     "google_pass": "1",
     "anonymity": "Elite",
     "country": "CA",
@@ -1746,89 +702,152 @@
     "isp": "GTCOMM"
   },
   {
-    "proxy": "43.217.143.220:52731",
-    "response_time": "3408.39505195618",
+    "proxy": "91.189.237.78:8080",
+    "response_time": "4616.56212806702",
     "google_pass": "0",
     "anonymity": "Anonymous",
-    "country": "MY",
-    "city": "Kuala Lumpur",
-    "isp": "AMAZON-02"
-  },
-  {
-    "proxy": "72.10.160.91:1825",
-    "response_time": "3573.3654499054",
-    "google_pass": "1",
-    "anonymity": "Elite",
-    "country": "CA",
+    "country": "RU",
     "city": "Unknown",
-    "isp": "GTCOMM"
+    "isp": "InterkamService LLC"
   },
   {
-    "proxy": "103.156.75.246:8181",
-    "response_time": "5808.97450447083",
+    "proxy": "103.156.248.26:8080",
+    "response_time": "3652.77099609375",
     "google_pass": "0",
     "anonymity": "Anonymous",
     "country": "ID",
-    "city": "Gianyar",
-    "isp": "PT Trika Global Media"
+    "city": "Batam",
+    "isp": "PT Lintas Jaringan Nusantara"
   },
   {
-    "proxy": "103.172.197.231:8080",
-    "response_time": "3033.77556800842",
+    "proxy": "218.85.5.108:597",
+    "response_time": "8146.4512348175",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "CN",
+    "city": "Fuzhou",
+    "isp": "Chinanet"
+  },
+  {
+    "proxy": "103.171.255.59:8080",
+    "response_time": "7956.13932609558",
     "google_pass": "0",
     "anonymity": "Anonymous",
     "country": "ID",
     "city": "Unknown",
-    "isp": "PT Cahaya Solusindo Internusa"
+    "isp": "PT Zona Kolektif Indonesia"
   },
   {
-    "proxy": "78.128.51.140:8080",
-    "response_time": "4478.14202308655",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "BG",
-    "city": "Sofia",
-    "isp": "Bol Bg Iztok Ltd"
-  },
-  {
-    "proxy": "43.217.116.234:16170",
-    "response_time": "5120.88084220886",
-    "google_pass": "0",
-    "anonymity": "Elite",
-    "country": "MY",
-    "city": "Kuala Lumpur",
-    "isp": "AMAZON-02"
-  },
-  {
-    "proxy": "16.176.152.119:3128",
-    "response_time": "3189.00012969971",
-    "google_pass": "0",
-    "anonymity": "Elite",
-    "country": "AU",
-    "city": "Sydney",
-    "isp": "AMAZON-02"
-  },
-  {
-    "proxy": "54.154.27.41:58158",
-    "response_time": "3158.50257873535",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "IE",
-    "city": "Dublin",
-    "isp": "AMAZON-02"
-  },
-  {
-    "proxy": "35.94.168.239:49570",
-    "response_time": "4246.71912193298",
+    "proxy": "37.27.253.44:8028",
+    "response_time": "2348.50335121155",
     "google_pass": "1",
+    "anonymity": "Elite",
+    "country": "FI",
+    "city": "Helsinki",
+    "isp": "Hetzner Online GmbH"
+  },
+  {
+    "proxy": "203.190.46.27:8080",
+    "response_time": "4532.25135803223",
+    "google_pass": "0",
+    "anonymity": "Elite",
+    "country": "ID",
+    "city": "Yogyakarta",
+    "isp": "Jaringan Lintas Utara, PT"
+  },
+  {
+    "proxy": "45.157.148.205:8082",
+    "response_time": "7731.30035400391",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "IQ",
+    "city": "Unknown",
+    "isp": "Cloud Company for General Services Ltd"
+  },
+  {
+    "proxy": "37.27.253.44:8081",
+    "response_time": "2347.37491607666",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "FI",
+    "city": "Helsinki",
+    "isp": "Hetzner Online GmbH"
+  },
+  {
+    "proxy": "185.155.99.114:8118",
+    "response_time": "5391.96801185608",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "EE",
+    "city": "Unknown",
+    "isp": "RJ Network OU"
+  },
+  {
+    "proxy": "35.94.168.239:3128",
+    "response_time": "2860.3994846344",
+    "google_pass": "0",
     "anonymity": "Anonymous",
     "country": "US",
     "city": "Boardman",
     "isp": "AMAZON-02"
   },
   {
-    "proxy": "117.161.170.163:9012",
-    "response_time": "4984.03692245483",
+    "proxy": "188.166.230.109:31028",
+    "response_time": "3814.52775001526",
+    "google_pass": "1",
+    "anonymity": "Anonymous",
+    "country": "SG",
+    "city": "Singapore",
+    "isp": "DIGITALOCEAN-ASN"
+  },
+  {
+    "proxy": "112.201.187.177:8083",
+    "response_time": "1105.90934753418",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "PH",
+    "city": "Manila",
+    "isp": "Philippine Long Distance Telephone Company"
+  },
+  {
+    "proxy": "103.153.250.65:83",
+    "response_time": "1552.40726470947",
+    "google_pass": "1",
+    "anonymity": "Anonymous",
+    "country": "IN",
+    "city": "Unknown",
+    "isp": "Purenet Telecom India Pvt. Ltd."
+  },
+  {
+    "proxy": "206.189.134.250:3128",
+    "response_time": "3335.77585220337",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "IN",
+    "city": "Bengaluru",
+    "isp": "DIGITALOCEAN-ASN"
+  },
+  {
+    "proxy": "122.185.198.242:7999",
+    "response_time": "4446.84338569641",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "IN",
+    "city": "Pune",
+    "isp": "BHARTI Airtel Ltd."
+  },
+  {
+    "proxy": "85.112.71.208:8080",
+    "response_time": "3834.796667099",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "LB",
+    "city": "Unknown",
+    "isp": "TerraNet sal"
+  },
+  {
+    "proxy": "117.161.170.163:9073",
+    "response_time": "5518.4760093689",
     "google_pass": "0",
     "anonymity": "Anonymous",
     "country": "CN",
@@ -1836,26 +855,323 @@
     "isp": "China Mobile Communications Group Co., Ltd."
   },
   {
-    "proxy": "23.157.88.25:1080",
-    "response_time": "3823.38261604309",
+    "proxy": "117.161.170.163:9149",
+    "response_time": "5209.70582962036",
     "google_pass": "0",
     "anonymity": "Anonymous",
-    "country": "DE",
-    "city": "Frankfurt am Main",
-    "isp": "AS-GLOBALTELEHOST"
+    "country": "CN",
+    "city": "Unknown",
+    "isp": "China Mobile Communications Group Co., Ltd."
   },
   {
-    "proxy": "103.101.193.46:1111",
-    "response_time": "1809.97800827026",
+    "proxy": "102.68.128.210:8080",
+    "response_time": "5456.72845840454",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "LY",
+    "city": "Tripoli",
+    "isp": "General Post and Telecommunication Company"
+  },
+  {
+    "proxy": "103.110.10.198:702",
+    "response_time": "2862.30111122131",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "ID",
+    "city": "Babakangarut",
+    "isp": "PT Citra Jelajah Informatika"
+  },
+  {
+    "proxy": "103.105.110.196:8080",
+    "response_time": "4620.46575546265",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "IN",
+    "city": "Mundhva",
+    "isp": "Netmax Broadband Services"
+  },
+  {
+    "proxy": "103.164.223.53:80",
+    "response_time": "8760.65516471863",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "ID",
+    "city": "Unknown",
+    "isp": "PT iForte Global Internet"
+  },
+  {
+    "proxy": "160.19.18.209:8080",
+    "response_time": "3889.72806930542",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "ID",
+    "city": "Unknown",
+    "isp": "PT Indo Telemedia Solusi"
+  },
+  {
+    "proxy": "128.199.120.45:9090",
+    "response_time": "782.233953475952",
+    "google_pass": "0",
+    "anonymity": "Elite",
+    "country": "SG",
+    "city": "Singapore",
+    "isp": "DIGITALOCEAN-ASN"
+  },
+  {
+    "proxy": "128.199.254.13:9090",
+    "response_time": "957.544326782227",
+    "google_pass": "1",
+    "anonymity": "Elite",
+    "country": "SG",
+    "city": "Singapore",
+    "isp": "DIGITALOCEAN-ASN"
+  },
+  {
+    "proxy": "16.24.74.162:54223",
+    "response_time": "2916.36872291565",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "BH",
+    "city": "Unknown",
+    "isp": "AMAZON-02"
+  },
+  {
+    "proxy": "171.232.41.46:8080",
+    "response_time": "4746.40703201294",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "VN",
+    "city": "Ho Chi Minh City",
+    "isp": "Viettel Group"
+  },
+  {
+    "proxy": "138.97.250.236:999",
+    "response_time": "6544.76618766785",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "DO",
+    "city": "Santiago de los Caballeros",
+    "isp": "COMCAST-SRL"
+  },
+  {
+    "proxy": "143.0.243.70:8080",
+    "response_time": "4604.68602180481",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "BR",
+    "city": "S\u00e3o Jo\u00e3o do Pacu\u00ed",
+    "isp": "Nova Info Internet e Telecomunicacoes LTDA"
+  },
+  {
+    "proxy": "160.19.19.99:8989",
+    "response_time": "3516.09539985657",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "ID",
+    "city": "Unknown",
+    "isp": "PT Indo Telemedia Solusi"
+  },
+  {
+    "proxy": "67.43.228.253:20339",
+    "response_time": "3065.48070907593",
+    "google_pass": "1",
+    "anonymity": "Elite",
+    "country": "CA",
+    "city": "Unknown",
+    "isp": "GTCOMM"
+  },
+  {
+    "proxy": "15.223.66.137:3128",
+    "response_time": "3269.30809020996",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "CA",
+    "city": "Montreal",
+    "isp": "AMAZON-02"
+  },
+  {
+    "proxy": "3.145.16.157:3128",
+    "response_time": "5953.00507545471",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "US",
+    "city": "Columbus",
+    "isp": "AMAZON-02"
+  },
+  {
+    "proxy": "43.217.143.220:58080",
+    "response_time": "3215.13414382935",
+    "google_pass": "0",
+    "anonymity": "Elite",
+    "country": "MY",
+    "city": "Kuala Lumpur",
+    "isp": "AMAZON-02"
+  },
+  {
+    "proxy": "114.9.27.246:8080",
+    "response_time": "5567.83294677734",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "ID",
+    "city": "Unknown",
+    "isp": "INDOSAT Internet Network Provider"
+  },
+  {
+    "proxy": "43.217.143.220:43801",
+    "response_time": "3591.63594245911",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "MY",
+    "city": "Kuala Lumpur",
+    "isp": "AMAZON-02"
+  },
+  {
+    "proxy": "27.124.80.58:82",
+    "response_time": "1779.77633476257",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "ID",
+    "city": "Yogyakarta",
+    "isp": "PT INDONESIA COMNETS PLUS"
+  },
+  {
+    "proxy": "85.185.206.195:3131",
+    "response_time": "3817.08908081055",
+    "google_pass": "1",
+    "anonymity": "Anonymous",
+    "country": "IR",
+    "city": "Unknown",
+    "isp": "Iran Telecommunication Company PJS"
+  },
+  {
+    "proxy": "45.233.90.10:443",
+    "response_time": "4286.16237640381",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "BR",
+    "city": "Cruz do Esp\u00edrito Santo",
+    "isp": "D.R SERVICOS DE COMUNICACAO LTDA - ME"
+  },
+  {
+    "proxy": "118.69.62.188:57140",
+    "response_time": "2598.56700897217",
+    "google_pass": "1",
+    "anonymity": "Anonymous",
+    "country": "VN",
+    "city": "Nha Trang",
+    "isp": "FPT Telecom Company"
+  },
+  {
+    "proxy": "94.75.76.3:8080",
+    "response_time": "8897.45140075684",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "PL",
+    "city": "Warsaw",
+    "isp": "Play"
+  },
+  {
+    "proxy": "38.7.18.103:999",
+    "response_time": "8014.39356803894",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "MX",
+    "city": "Nueva Italia de Ruiz",
+    "isp": "INTERNET TELEFONIA Y TV DE MICHOACAN SA DE CV"
+  },
+  {
+    "proxy": "37.27.253.44:8005",
+    "response_time": "1959.33985710144",
+    "google_pass": "1",
+    "anonymity": "Elite",
+    "country": "FI",
+    "city": "Helsinki",
+    "isp": "Hetzner Online GmbH"
+  },
+  {
+    "proxy": "49.156.44.130:55443",
+    "response_time": "6456.53796195984",
+    "google_pass": "1",
+    "anonymity": "Anonymous",
+    "country": "KH",
+    "city": "Phnom Penh",
+    "isp": "WiCAM Corporation Ltd."
+  },
+  {
+    "proxy": "58.33.109.114:2021",
+    "response_time": "7385.70594787598",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "CN",
+    "city": "Shanghai",
+    "isp": "China Telecom Group"
+  },
+  {
+    "proxy": "65.108.159.129:3128",
+    "response_time": "2504.19878959656",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "FI",
+    "city": "Helsinki",
+    "isp": "Hetzner Online GmbH"
+  },
+  {
+    "proxy": "160.30.83.10:83",
+    "response_time": "1700.48594474792",
+    "google_pass": "1",
+    "anonymity": "Elite",
+    "country": "IN",
+    "city": "Unknown",
+    "isp": "Virtel Communications Private Limited"
+  },
+  {
+    "proxy": "200.201.134.184:8787",
+    "response_time": "7486.80734634399",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "BR",
+    "city": "S\u00e3o Paulo",
+    "isp": "Telium Telecomunicacoes Ltda"
+  },
+  {
+    "proxy": "160.187.174.170:8080",
+    "response_time": "4095.42393684387",
     "google_pass": "0",
     "anonymity": "Elite",
     "country": "ID",
-    "city": "Unknown",
-    "isp": "PT Bintang Teknologi Sejahtera"
+    "city": "Deli Serdang",
+    "isp": "PT Netindo Persada Nusantara"
   },
   {
-    "proxy": "51.44.167.243:15546",
-    "response_time": "1936.93995475769",
+    "proxy": "54.235.15.36:3128",
+    "response_time": "4666.97239875793",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "US",
+    "city": "Ashburn",
+    "isp": "AMAZON-AES"
+  },
+  {
+    "proxy": "35.182.24.10:10052",
+    "response_time": "4178.47299575806",
+    "google_pass": "0",
+    "anonymity": "Elite",
+    "country": "CA",
+    "city": "Montreal",
+    "isp": "AMAZON-02"
+  },
+  {
+    "proxy": "147.75.34.93:9443",
+    "response_time": "3339.65134620667",
+    "google_pass": "1",
+    "anonymity": "Elite",
+    "country": "NL",
+    "city": "Amsterdam",
+    "isp": "PACKET"
+  },
+  {
+    "proxy": "35.180.23.174:3128",
+    "response_time": "4850.94690322876",
     "google_pass": "0",
     "anonymity": "Anonymous",
     "country": "FR",
@@ -1863,8 +1179,323 @@
     "isp": "AMAZON-02"
   },
   {
-    "proxy": "35.95.34.84:59329",
-    "response_time": "4415.57621955872",
+    "proxy": "13.208.43.139:3128",
+    "response_time": "5416.81551933289",
+    "google_pass": "1",
+    "anonymity": "Anonymous",
+    "country": "JP",
+    "city": "Osaka",
+    "isp": "AMAZON-02"
+  },
+  {
+    "proxy": "200.116.230.213:8080",
+    "response_time": "6931.26702308655",
+    "google_pass": "0",
+    "anonymity": "Elite",
+    "country": "CO",
+    "city": "Barranquilla",
+    "isp": "UNE EPM TELECOMUNICACIONES S.A."
+  },
+  {
+    "proxy": "117.161.170.163:9098",
+    "response_time": "6783.64205360413",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "CN",
+    "city": "Unknown",
+    "isp": "China Mobile Communications Group Co., Ltd."
+  },
+  {
+    "proxy": "118.179.121.56:6699",
+    "response_time": "9006.32190704346",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "BD",
+    "city": "Dhaka",
+    "isp": "AmberIT Limited"
+  },
+  {
+    "proxy": "222.127.239.41:8082",
+    "response_time": "3489.23683166504",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "PH",
+    "city": "Lahug",
+    "isp": "Globe Telecom Inc."
+  },
+  {
+    "proxy": "91.241.21.237:9812",
+    "response_time": "6411.5526676178",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "IR",
+    "city": "Unknown",
+    "isp": "GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)"
+  },
+  {
+    "proxy": "188.121.100.221:3128",
+    "response_time": "3180.92703819275",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "IR",
+    "city": "Unknown",
+    "isp": "Noyan Abr Arvan Co. ( Private Joint Stock)"
+  },
+  {
+    "proxy": "41.254.48.190:1976",
+    "response_time": "7367.05160140991",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "LY",
+    "city": "Tripoli",
+    "isp": "General Post and Telecommunication Company"
+  },
+  {
+    "proxy": "180.191.16.9:8085",
+    "response_time": "4592.69762039185",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "PH",
+    "city": "Cabanatuan City",
+    "isp": "Globe Telecom Inc."
+  },
+  {
+    "proxy": "67.43.236.20:17543",
+    "response_time": "2194.01621818542",
+    "google_pass": "1",
+    "anonymity": "Elite",
+    "country": "CA",
+    "city": "Unknown",
+    "isp": "GTCOMM"
+  },
+  {
+    "proxy": "3.70.46.172:10018",
+    "response_time": "4434.11803245544",
+    "google_pass": "1",
+    "anonymity": "Elite",
+    "country": "DE",
+    "city": "Frankfurt am Main",
+    "isp": "AMAZON-02"
+  },
+  {
+    "proxy": "3.35.14.129:8899",
+    "response_time": "6038.654088974",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "KR",
+    "city": "Incheon",
+    "isp": "AMAZON-02"
+  },
+  {
+    "proxy": "67.43.228.250:23843",
+    "response_time": "3432.04641342163",
+    "google_pass": "1",
+    "anonymity": "Elite",
+    "country": "CA",
+    "city": "Unknown",
+    "isp": "GTCOMM"
+  },
+  {
+    "proxy": "38.194.246.34:999",
+    "response_time": "9065.18864631653",
+    "google_pass": "0",
+    "anonymity": "Elite",
+    "country": "MX",
+    "city": "Reynosa",
+    "isp": "IENTC S DE RL DE CV"
+  },
+  {
+    "proxy": "3.29.67.17:4480",
+    "response_time": "3226.16052627563",
+    "google_pass": "0",
+    "anonymity": "Elite",
+    "country": "AE",
+    "city": "Dubai",
+    "isp": "AMAZON-02"
+  },
+  {
+    "proxy": "52.78.241.34:11234",
+    "response_time": "4404.3972492218",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "KR",
+    "city": "Incheon",
+    "isp": "AMAZON-02"
+  },
+  {
+    "proxy": "54.251.135.171:3128",
+    "response_time": "2531.20398521423",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "SG",
+    "city": "Singapore",
+    "isp": "AMAZON-02"
+  },
+  {
+    "proxy": "3.70.46.172:8093",
+    "response_time": "1763.75365257263",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "DE",
+    "city": "Frankfurt am Main",
+    "isp": "AMAZON-02"
+  },
+  {
+    "proxy": "184.82.244.60:8080",
+    "response_time": "2163.91515731812",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "TH",
+    "city": "Bangkok",
+    "isp": "AIS Fibre"
+  },
+  {
+    "proxy": "84.53.245.42:41258",
+    "response_time": "6363.11268806458",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "RU",
+    "city": "Vladimir",
+    "isp": "Rostelecom"
+  },
+  {
+    "proxy": "103.131.19.160:8083",
+    "response_time": "3051.46503448486",
+    "google_pass": "1",
+    "anonymity": "Anonymous",
+    "country": "ID",
+    "city": "Unknown",
+    "isp": "PT.Global Media Data Prima"
+  },
+  {
+    "proxy": "103.247.14.138:7777",
+    "response_time": "4247.02286720276",
+    "google_pass": "1",
+    "anonymity": "Anonymous",
+    "country": "ID",
+    "city": "Klaten",
+    "isp": "PT SELARAS CITRA TERABIT"
+  },
+  {
+    "proxy": "157.10.97.17:8080",
+    "response_time": "4415.28487205505",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "ID",
+    "city": "Unknown",
+    "isp": "PT Lintas Jaringan Nusantara"
+  },
+  {
+    "proxy": "37.27.253.44:8098",
+    "response_time": "4332.37338066101",
+    "google_pass": "0",
+    "anonymity": "Elite",
+    "country": "FI",
+    "city": "Helsinki",
+    "isp": "Hetzner Online GmbH"
+  },
+  {
+    "proxy": "37.27.253.44:8034",
+    "response_time": "2884.29141044617",
+    "google_pass": "1",
+    "anonymity": "Anonymous",
+    "country": "FI",
+    "city": "Helsinki",
+    "isp": "Hetzner Online GmbH"
+  },
+  {
+    "proxy": "3.29.67.201:3128",
+    "response_time": "5159.2583656311",
+    "google_pass": "0",
+    "anonymity": "Elite",
+    "country": "AE",
+    "city": "Dubai",
+    "isp": "AMAZON-02"
+  },
+  {
+    "proxy": "37.27.253.44:8074",
+    "response_time": "2008.07499885559",
+    "google_pass": "0",
+    "anonymity": "Elite",
+    "country": "FI",
+    "city": "Helsinki",
+    "isp": "Hetzner Online GmbH"
+  },
+  {
+    "proxy": "103.126.86.199:3127",
+    "response_time": "5931.44202232361",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "ID",
+    "city": "Unknown",
+    "isp": "PT. Rasi Bintang Perkasa"
+  },
+  {
+    "proxy": "103.156.16.45:8080",
+    "response_time": "6660.53485870361",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "ID",
+    "city": "Unknown",
+    "isp": "RSTNET"
+  },
+  {
+    "proxy": "103.97.198.253:8080",
+    "response_time": "3308.85219573975",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "ID",
+    "city": "Unknown",
+    "isp": "PT Borneo Global Persada"
+  },
+  {
+    "proxy": "24.52.33.75:8080",
+    "response_time": "5447.10326194763",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "US",
+    "city": "St. George",
+    "isp": "TDS-AS"
+  },
+  {
+    "proxy": "202.154.18.172:8082",
+    "response_time": "1941.67709350586",
+    "google_pass": "1",
+    "anonymity": "Anonymous",
+    "country": "ID",
+    "city": "Jombang",
+    "isp": "PT Digital Media Telematika"
+  },
+  {
+    "proxy": "54.154.27.41:58158",
+    "response_time": "4358.27612876892",
+    "google_pass": "0",
+    "anonymity": "Elite",
+    "country": "IE",
+    "city": "Dublin",
+    "isp": "AMAZON-02"
+  },
+  {
+    "proxy": "13.212.185.138:16702",
+    "response_time": "3075.57582855225",
+    "google_pass": "0",
+    "anonymity": "Elite",
+    "country": "SG",
+    "city": "Singapore",
+    "isp": "AMAZON-02"
+  },
+  {
+    "proxy": "46.161.194.93:8085",
+    "response_time": "8461.21072769165",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "IQ",
+    "city": "Unknown",
+    "isp": "Valin Company for General Trading and Communication LTD"
+  },
+  {
+    "proxy": "35.94.168.239:49570",
+    "response_time": "2939.42332267761",
     "google_pass": "0",
     "anonymity": "Anonymous",
     "country": "US",
@@ -1872,26 +1503,116 @@
     "isp": "AMAZON-02"
   },
   {
-    "proxy": "176.34.192.17:4889",
-    "response_time": "2442.20638275146",
+    "proxy": "23.157.88.25:1080",
+    "response_time": "3757.86232948303",
     "google_pass": "1",
     "anonymity": "Elite",
-    "country": "IE",
-    "city": "Dublin",
-    "isp": "AMAZON-02"
+    "country": "DE",
+    "city": "Frankfurt am Main",
+    "isp": "AS-GLOBALTELEHOST"
   },
   {
-    "proxy": "178.153.121.106:8080",
-    "response_time": "6666.71895980835",
+    "proxy": "103.172.42.113:1111",
+    "response_time": "3700.20580291748",
     "google_pass": "0",
     "anonymity": "Anonymous",
-    "country": "QA",
-    "city": "Doha",
-    "isp": "Ooredoo Q.S.C."
+    "country": "ID",
+    "city": "Unknown",
+    "isp": "PT Media Solusi Sukses"
+  },
+  {
+    "proxy": "192.140.93.6:3128",
+    "response_time": "8316.54834747314",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "EC",
+    "city": "Esmeraldas",
+    "isp": "KOLVECH S.A. TELECOMVAS"
+  },
+  {
+    "proxy": "117.102.80.243:8080",
+    "response_time": "5962.04900741577",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "ID",
+    "city": "Jakarta",
+    "isp": "BIZNET NETWORKS"
+  },
+  {
+    "proxy": "45.167.125.21:999",
+    "response_time": "5040.68636894226",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "CO",
+    "city": "Popay\u00e1n",
+    "isp": "SEPCOM COMUNICACIONES SAS"
+  },
+  {
+    "proxy": "90.174.128.42:3128",
+    "response_time": "2310.38308143616",
+    "google_pass": "1",
+    "anonymity": "Anonymous",
+    "country": "ES",
+    "city": "Madrid",
+    "isp": "Orange Espagne SA"
+  },
+  {
+    "proxy": "103.153.136.10:8080",
+    "response_time": "2975.79908370972",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "ID",
+    "city": "Unknown",
+    "isp": "PT Andalas Global Network"
+  },
+  {
+    "proxy": "186.235.201.10:8080",
+    "response_time": "5073.58932495117",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "BR",
+    "city": "Conselheiro Lafaiete",
+    "isp": "VERO S.A"
+  },
+  {
+    "proxy": "103.48.68.67:83",
+    "response_time": "5105.43537139893",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "IN",
+    "city": "Unknown",
+    "isp": "Country Online Services PVT LTD"
+  },
+  {
+    "proxy": "24.72.215.236:8246",
+    "response_time": "8500.58436393738",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "US",
+    "city": "Schuyler",
+    "isp": "VYVE-BROADBAND"
+  },
+  {
+    "proxy": "152.53.242.219:3128",
+    "response_time": "4255.69868087769",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "AT",
+    "city": "Unknown",
+    "isp": "netcup GmbH"
+  },
+  {
+    "proxy": "181.119.86.177:999",
+    "response_time": "7628.52048873901",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "CO",
+    "city": "Santiago de Cali",
+    "isp": "UFINET PANAMA S.A."
   },
   {
     "proxy": "16.24.74.162:4714",
-    "response_time": "3990.65494537354",
+    "response_time": "3054.81338500977",
     "google_pass": "0",
     "anonymity": "Anonymous",
     "country": "BH",
@@ -1900,7 +1621,7 @@
   },
   {
     "proxy": "54.251.135.171:5940",
-    "response_time": "8210.10613441467",
+    "response_time": "2520.17617225647",
     "google_pass": "0",
     "anonymity": "Anonymous",
     "country": "SG",
@@ -1908,26 +1629,44 @@
     "isp": "AMAZON-02"
   },
   {
-    "proxy": "103.79.155.202:8080",
-    "response_time": "4323.42767715454",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "ID",
+    "proxy": "67.43.236.20:10463",
+    "response_time": "3701.08795166016",
+    "google_pass": "1",
+    "anonymity": "Elite",
+    "country": "CA",
     "city": "Unknown",
-    "isp": "PT Mora Telematika Indonesia"
+    "isp": "GTCOMM"
   },
   {
-    "proxy": "103.155.199.104:8080",
-    "response_time": "4555.29165267944",
+    "proxy": "38.250.119.1:999",
+    "response_time": "3972.03946113586",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "PE",
+    "city": "Lima region",
+    "isp": "BANTEL SAC"
+  },
+  {
+    "proxy": "66.27.58.70:8080",
+    "response_time": "7655.82513809204",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "US",
+    "city": "Hawthorne",
+    "isp": "TWC-20001-PACWEST"
+  },
+  {
+    "proxy": "160.25.196.16:8080",
+    "response_time": "7893.28336715698",
     "google_pass": "0",
     "anonymity": "Anonymous",
     "country": "ID",
-    "city": "Bandung",
-    "isp": "PT Lintas Jaringan Nusantara"
+    "city": "Bojonegoro",
+    "isp": "PT Rnet Mitra Sentosa"
   },
   {
     "proxy": "13.233.16.114:3128",
-    "response_time": "2848.61016273499",
+    "response_time": "3054.07881736755",
     "google_pass": "0",
     "anonymity": "Anonymous",
     "country": "IN",
@@ -1935,17 +1674,17 @@
     "isp": "AMAZON-02"
   },
   {
-    "proxy": "16.51.166.225:3128",
-    "response_time": "3641.14546775818",
+    "proxy": "56.155.130.244:37215",
+    "response_time": "4459.81907844543",
     "google_pass": "0",
-    "anonymity": "Elite",
-    "country": "AU",
-    "city": "Melbourne",
+    "anonymity": "Anonymous",
+    "country": "JP",
+    "city": "Osaka",
     "isp": "AMAZON-02"
   },
   {
     "proxy": "18.228.191.229:3128",
-    "response_time": "4220.73292732239",
+    "response_time": "4063.27795982361",
     "google_pass": "0",
     "anonymity": "Elite",
     "country": "BR",
@@ -1954,7 +1693,7 @@
   },
   {
     "proxy": "3.8.126.215:3128",
-    "response_time": "2923.34461212158",
+    "response_time": "1882.26366043091",
     "google_pass": "0",
     "anonymity": "Elite",
     "country": "GB",
@@ -1962,44 +1701,26 @@
     "isp": "AMAZON-02"
   },
   {
-    "proxy": "51.17.155.195:53281",
-    "response_time": "4200.9334564209",
+    "proxy": "103.124.139.195:3128",
+    "response_time": "4323.06885719299",
     "google_pass": "0",
     "anonymity": "Anonymous",
-    "country": "IL",
-    "city": "Tel Aviv",
-    "isp": "AMAZON-02"
-  },
-  {
-    "proxy": "89.19.175.122:8012",
-    "response_time": "1971.08769416809",
-    "google_pass": "1",
-    "anonymity": "Elite",
-    "country": "RU",
-    "city": "Unknown",
-    "isp": "JSC Comcor"
-  },
-  {
-    "proxy": "202.51.196.226:8080",
-    "response_time": "7536.29803657532",
-    "google_pass": "0",
-    "anonymity": "Elite",
     "country": "ID",
-    "city": "Bogor",
-    "isp": "PT Jala Lintas Media"
+    "city": "Batang",
+    "isp": "PT.Global Media Data Prima"
   },
   {
-    "proxy": "3.29.67.17:4202",
-    "response_time": "2357.25808143616",
-    "google_pass": "1",
+    "proxy": "103.231.236.227:8182",
+    "response_time": "3407.12213516235",
+    "google_pass": "0",
     "anonymity": "Anonymous",
-    "country": "AE",
-    "city": "Dubai",
-    "isp": "AMAZON-02"
+    "country": "ID",
+    "city": "Pemalang",
+    "isp": "PT Level Indodata Teknologi"
   },
   {
     "proxy": "116.203.139.209:5153",
-    "response_time": "2594.15531158447",
+    "response_time": "3160.01439094543",
     "google_pass": "0",
     "anonymity": "Anonymous",
     "country": "DE",
@@ -2007,26 +1728,17 @@
     "isp": "Hetzner Online GmbH"
   },
   {
-    "proxy": "47.129.162.143:8074",
-    "response_time": "5331.24017715454",
+    "proxy": "13.112.26.188:40752",
+    "response_time": "6859.57312583923",
     "google_pass": "0",
     "anonymity": "Elite",
-    "country": "SG",
-    "city": "Singapore",
-    "isp": "AMAZON-02"
-  },
-  {
-    "proxy": "13.112.26.188:40752",
-    "response_time": "4272.5625038147",
-    "google_pass": "1",
-    "anonymity": "Anonymous",
     "country": "JP",
     "city": "Tokyo",
     "isp": "AMAZON-02"
   },
   {
-    "proxy": "40.172.232.213:54403",
-    "response_time": "2538.0916595459",
+    "proxy": "3.28.207.182:53115",
+    "response_time": "4053.16305160522",
     "google_pass": "0",
     "anonymity": "Elite",
     "country": "AE",
@@ -2034,62 +1746,26 @@
     "isp": "AMAZON-02"
   },
   {
-    "proxy": "191.101.190.134:8080",
-    "response_time": "2864.06636238098",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "SG",
-    "city": "Singapore",
-    "isp": "PT Perwira Media Solusi"
-  },
-  {
-    "proxy": "103.126.86.215:3127",
-    "response_time": "6933.86316299438",
+    "proxy": "54.180.239.137:3128",
+    "response_time": "3371.49882316589",
     "google_pass": "0",
     "anonymity": "Elite",
+    "country": "KR",
+    "city": "Incheon",
+    "isp": "AMAZON-02"
+  },
+  {
+    "proxy": "103.165.156.11:8090",
+    "response_time": "5332.96990394592",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
     "country": "ID",
-    "city": "Unknown",
-    "isp": "PT. Rasi Bintang Perkasa"
-  },
-  {
-    "proxy": "222.59.173.105:45207",
-    "response_time": "6453.0918598175",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "CN",
-    "city": "Unknown",
-    "isp": "China Mobile communications corporation"
-  },
-  {
-    "proxy": "93.190.14.204:8080",
-    "response_time": "8033.06698799133",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "TR",
-    "city": "Unknown",
-    "isp": "Kobikom Telekomunikasyon Bilisim Hizmetler San Ve Tic As"
-  },
-  {
-    "proxy": "194.233.76.162:8000",
-    "response_time": "3114.72702026367",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "SG",
-    "city": "Singapore",
-    "isp": "Contabo Asia Private Limited"
-  },
-  {
-    "proxy": "103.151.226.133:8080",
-    "response_time": "6249.73702430725",
-    "google_pass": "0",
-    "anonymity": "Elite",
-    "country": "ID",
-    "city": "Unknown",
-    "isp": "PT. MEDIA DISTRIBUSI PRIMA"
+    "city": "Jember",
+    "isp": "MEGADATA-ISP"
   },
   {
     "proxy": "47.129.162.143:43340",
-    "response_time": "5238.43789100647",
+    "response_time": "2794.00181770325",
     "google_pass": "0",
     "anonymity": "Anonymous",
     "country": "SG",
@@ -2097,17 +1773,8 @@
     "isp": "AMAZON-02"
   },
   {
-    "proxy": "103.141.150.187:8080",
-    "response_time": "3328.25183868408",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "ID",
-    "city": "Unknown",
-    "isp": "PT Primacom Interbuana"
-  },
-  {
     "proxy": "51.84.110.224:3128",
-    "response_time": "2293.90239715576",
+    "response_time": "2249.1409778595",
     "google_pass": "0",
     "anonymity": "Anonymous",
     "country": "IL",
@@ -2116,7 +1783,7 @@
   },
   {
     "proxy": "13.232.213.216:4030",
-    "response_time": "2328.49860191345",
+    "response_time": "2100.78167915344",
     "google_pass": "0",
     "anonymity": "Elite",
     "country": "IN",
@@ -2124,53 +1791,98 @@
     "isp": "AMAZON-02"
   },
   {
-    "proxy": "103.189.62.131:8082",
-    "response_time": "2162.94169425964",
+    "proxy": "89.19.175.122:8008",
+    "response_time": "1797.89781570435",
     "google_pass": "1",
     "anonymity": "Elite",
-    "country": "ID",
-    "city": "Denpasar",
-    "isp": "PT Blip Integrator Provider"
+    "country": "RU",
+    "city": "Unknown",
+    "isp": "JSC Comcor"
   },
   {
     "proxy": "37.27.253.44:8058",
-    "response_time": "2470.44730186462",
+    "response_time": "4188.3111000061",
     "google_pass": "1",
-    "anonymity": "Elite",
+    "anonymity": "Anonymous",
     "country": "FI",
     "city": "Helsinki",
     "isp": "Hetzner Online GmbH"
   },
   {
-    "proxy": "128.199.140.172:8080",
-    "response_time": "1967.36764907837",
+    "proxy": "115.187.30.171:1111",
+    "response_time": "4333.56261253357",
+    "google_pass": "1",
+    "anonymity": "Anonymous",
+    "country": "ID",
+    "city": "Jakarta",
+    "isp": "PT. Fiber Networks Indonesia"
+  },
+  {
+    "proxy": "118.34.4.196:80",
+    "response_time": "2097.24068641663",
     "google_pass": "1",
     "anonymity": "Elite",
-    "country": "SG",
-    "city": "Singapore",
-    "isp": "DIGITALOCEAN-ASN"
+    "country": "KR",
+    "city": "Nonsan",
+    "isp": "Korea Telecom"
   },
   {
-    "proxy": "213.230.110.224:3128",
-    "response_time": "4188.32588195801",
+    "proxy": "14.127.217.83:1080",
+    "response_time": "6088.76538276672",
     "google_pass": "0",
     "anonymity": "Anonymous",
-    "country": "UZ",
-    "city": "Tashkent",
-    "isp": "Uzbektelekom Joint Stock Company"
-  },
-  {
-    "proxy": "103.187.136.20:3838",
-    "response_time": "3770.23124694824",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "BD",
+    "country": "CN",
     "city": "Unknown",
-    "isp": "Times Communication"
+    "isp": "Chinanet"
+  },
+  {
+    "proxy": "222.127.71.2:9999",
+    "response_time": "1424.67713356018",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "PH",
+    "city": "Lahug",
+    "isp": "Globe Telecom Inc."
+  },
+  {
+    "proxy": "103.242.106.157:8080",
+    "response_time": "8519.24467086792",
+    "google_pass": "0",
+    "anonymity": "Elite",
+    "country": "ID",
+    "city": "Unknown",
+    "isp": "PT Lintas Jaringan Nusantara"
+  },
+  {
+    "proxy": "38.183.146.77:8090",
+    "response_time": "1649.16253089905",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "ID",
+    "city": "Bekasi",
+    "isp": "PT Ikhlas Cipta Teknologi"
+  },
+  {
+    "proxy": "213.87.103.76:3128",
+    "response_time": "5210.50691604614",
+    "google_pass": "1",
+    "anonymity": "Anonymous",
+    "country": "RU",
+    "city": "Blagoveshchensk",
+    "isp": "MTS PJSC"
+  },
+  {
+    "proxy": "18.60.146.88:22092",
+    "response_time": "4948.04716110229",
+    "google_pass": "1",
+    "anonymity": "Elite",
+    "country": "IN",
+    "city": "Hyderabad",
+    "isp": "AMAZON-02"
   },
   {
     "proxy": "54.233.16.50:9098",
-    "response_time": "4686.20228767395",
+    "response_time": "4448.2090473175",
     "google_pass": "0",
     "anonymity": "Anonymous",
     "country": "BR",
@@ -2179,43 +1891,25 @@
   },
   {
     "proxy": "56.228.9.142:15920",
-    "response_time": "2085.10851860046",
+    "response_time": "2535.68959236145",
     "google_pass": "0",
-    "anonymity": "Anonymous",
+    "anonymity": "Elite",
     "country": "SE",
     "city": "Stockholm",
     "isp": "AMAZON-02"
   },
   {
-    "proxy": "113.160.184.87:8080",
-    "response_time": "1264.1863822937",
+    "proxy": "111.238.206.143:8080",
+    "response_time": "2945.94049453735",
     "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "VN",
-    "city": "Thanh H\u00f3a",
-    "isp": "VNPT Corp"
-  },
-  {
-    "proxy": "190.60.57.42:3128",
-    "response_time": "5059.39650535583",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "CO",
-    "city": "Medell\u00edn",
-    "isp": "UFINET PANAMA S.A."
-  },
-  {
-    "proxy": "147.75.49.154:80",
-    "response_time": "2267.65561103821",
-    "google_pass": "1",
     "anonymity": "Elite",
-    "country": "US",
-    "city": "San Jose",
-    "isp": "PACKET"
+    "country": "JP",
+    "city": "Kawaguchi",
+    "isp": "KDDI CORPORATION"
   },
   {
     "proxy": "119.155.143.218:8080",
-    "response_time": "6594.89107131958",
+    "response_time": "3676.07426643372",
     "google_pass": "0",
     "anonymity": "Anonymous",
     "country": "PK",
@@ -2223,26 +1917,35 @@
     "isp": "Pakistan Telecommunication Company Limited"
   },
   {
-    "proxy": "124.83.102.235:8082",
-    "response_time": "2254.04620170593",
-    "google_pass": "0",
-    "anonymity": "Elite",
-    "country": "PH",
-    "city": "Manila",
-    "isp": "Philippine Long Distance Telephone Company"
+    "proxy": "103.156.17.32:8818",
+    "response_time": "3751.92451477051",
+    "google_pass": "1",
+    "anonymity": "Anonymous",
+    "country": "ID",
+    "city": "Unknown",
+    "isp": "RSTNET"
   },
   {
-    "proxy": "64.157.16.89:8080",
-    "response_time": "4001.93166732788",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
+    "proxy": "199.48.129.114:3120",
+    "response_time": "2164.28208351135",
+    "google_pass": "1",
+    "anonymity": "Elite",
     "country": "US",
-    "city": "Francesville",
-    "isp": "LEVEL3"
+    "city": "Durham",
+    "isp": "NETACTUATE"
+  },
+  {
+    "proxy": "72.10.160.94:21633",
+    "response_time": "3953.91058921814",
+    "google_pass": "1",
+    "anonymity": "Elite",
+    "country": "CA",
+    "city": "Unknown",
+    "isp": "GTCOMM"
   },
   {
     "proxy": "18.179.46.106:19766",
-    "response_time": "3801.73754692078",
+    "response_time": "5378.40461730957",
     "google_pass": "0",
     "anonymity": "Anonymous",
     "country": "JP",
@@ -2250,53 +1953,26 @@
     "isp": "AMAZON-02"
   },
   {
-    "proxy": "37.27.253.44:8070",
-    "response_time": "1934.03625488281",
-    "google_pass": "0",
-    "anonymity": "Elite",
-    "country": "FI",
-    "city": "Helsinki",
-    "isp": "Hetzner Online GmbH"
-  },
-  {
-    "proxy": "51.159.159.73:80",
-    "response_time": "1566.82562828064",
-    "google_pass": "0",
-    "anonymity": "Elite",
-    "country": "FR",
-    "city": "Paris",
-    "isp": "Scaleway S.a.s."
-  },
-  {
     "proxy": "3.141.21.172:4030",
-    "response_time": "3620.48530578613",
-    "google_pass": "1",
-    "anonymity": "Elite",
+    "response_time": "3078.38582992554",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
     "country": "US",
     "city": "Unknown",
     "isp": "AMAZON-02"
   },
   {
-    "proxy": "3.109.62.30:25665",
-    "response_time": "2592.03433990479",
-    "google_pass": "0",
+    "proxy": "41.196.16.229:1981",
+    "response_time": "2252.00390815735",
+    "google_pass": "1",
     "anonymity": "Anonymous",
-    "country": "IN",
-    "city": "Mumbai",
-    "isp": "AMAZON-02"
-  },
-  {
-    "proxy": "117.161.170.163:9004",
-    "response_time": "9245.53894996643",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "CN",
-    "city": "Unknown",
-    "isp": "China Mobile Communications Group Co., Ltd."
+    "country": "EG",
+    "city": "Giza",
+    "isp": "LINKdotNET"
   },
   {
     "proxy": "98.81.132.5:3128",
-    "response_time": "4293.52283477783",
+    "response_time": "4743.21365356445",
     "google_pass": "0",
     "anonymity": "Anonymous",
     "country": "US",
@@ -2304,35 +1980,53 @@
     "isp": "AMAZON-AES"
   },
   {
-    "proxy": "103.125.177.6:8080",
-    "response_time": "3506.47401809692",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "PK",
-    "city": "Lahore",
-    "isp": "KK Networks Pvt Ltd."
-  },
-  {
-    "proxy": "103.231.239.166:58080",
-    "response_time": "5517.82178878784",
+    "proxy": "202.154.18.148:8080",
+    "response_time": "1456.59470558167",
     "google_pass": "0",
     "anonymity": "Elite",
-    "country": "BD",
-    "city": "Ull\u0101p\u0101ra",
-    "isp": "Systems Solutions & development Technologies Limited"
+    "country": "ID",
+    "city": "Jombang",
+    "isp": "PT Digital Media Telematika"
   },
   {
-    "proxy": "182.52.66.204:8080",
-    "response_time": "5384.9880695343",
+    "proxy": "122.144.7.137:7775",
+    "response_time": "1781.16750717163",
+    "google_pass": "1",
+    "anonymity": "Anonymous",
+    "country": "ID",
+    "city": "Jakarta",
+    "isp": "PT Maxindo Mitra Solusi"
+  },
+  {
+    "proxy": "103.76.91.157:8080",
+    "response_time": "1068.35174560547",
+    "google_pass": "0",
+    "anonymity": "Elite",
+    "country": "ID",
+    "city": "Jakarta",
+    "isp": "PT Kampung Dua Net"
+  },
+  {
+    "proxy": "45.230.170.30:999",
+    "response_time": "8089.75338935852",
     "google_pass": "0",
     "anonymity": "Anonymous",
-    "country": "TH",
-    "city": "Bangkok",
-    "isp": "TOT Public Company Limited"
+    "country": "VE",
+    "city": "Caracas",
+    "isp": "Unknown"
+  },
+  {
+    "proxy": "43.252.238.166:8080",
+    "response_time": "6487.70356178284",
+    "google_pass": "0",
+    "anonymity": "Elite",
+    "country": "ID",
+    "city": "Unknown",
+    "isp": "PT. Usaha Adisanggoro"
   },
   {
     "proxy": "35.159.31.44:59329",
-    "response_time": "5441.13159179688",
+    "response_time": "1653.3088684082",
     "google_pass": "0",
     "anonymity": "Elite",
     "country": "DE",
@@ -2340,8 +2034,17 @@
     "isp": "AMAZON-02"
   },
   {
+    "proxy": "103.76.148.46:8181",
+    "response_time": "4432.83700942993",
+    "google_pass": "1",
+    "anonymity": "Anonymous",
+    "country": "ID",
+    "city": "East Java",
+    "isp": "PT. Java Digital Nusantara"
+  },
+  {
     "proxy": "8.243.67.190:8080",
-    "response_time": "3148.91386032104",
+    "response_time": "3049.19743537903",
     "google_pass": "1",
     "anonymity": "Elite",
     "country": "CO",
@@ -2349,8 +2052,26 @@
     "isp": "LEVEL3"
   },
   {
+    "proxy": "67.43.236.20:7783",
+    "response_time": "3497.51138687134",
+    "google_pass": "1",
+    "anonymity": "Elite",
+    "country": "CA",
+    "city": "Unknown",
+    "isp": "GTCOMM"
+  },
+  {
+    "proxy": "3.99.169.87:21629",
+    "response_time": "4565.40751457214",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "CA",
+    "city": "Montreal",
+    "isp": "AMAZON-02"
+  },
+  {
     "proxy": "170.85.158.85:10004",
-    "response_time": "2291.1810874939",
+    "response_time": "2326.2767791748",
     "google_pass": "1",
     "anonymity": "Elite",
     "country": "US",
@@ -2359,79 +2080,16 @@
   },
   {
     "proxy": "54.168.197.42:8889",
-    "response_time": "7463.34457397461",
-    "google_pass": "1",
-    "anonymity": "Elite",
+    "response_time": "4963.96636962891",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
     "country": "JP",
     "city": "Tokyo",
     "isp": "AMAZON-02"
   },
   {
-    "proxy": "16.51.42.19:3128",
-    "response_time": "5459.31887626648",
-    "google_pass": "1",
-    "anonymity": "Anonymous",
-    "country": "AU",
-    "city": "Melbourne",
-    "isp": "AMAZON-02"
-  },
-  {
-    "proxy": "54.169.92.92:8989",
-    "response_time": "4408.00809860229",
-    "google_pass": "0",
-    "anonymity": "Elite",
-    "country": "SG",
-    "city": "Singapore",
-    "isp": "AMAZON-02"
-  },
-  {
-    "proxy": "103.131.245.142:8080",
-    "response_time": "4680.88126182556",
-    "google_pass": "1",
-    "anonymity": "Anonymous",
-    "country": "ID",
-    "city": "Jakarta",
-    "isp": "PT. DUMAI MANDIRI NET"
-  },
-  {
-    "proxy": "124.121.177.132:8080",
-    "response_time": "4819.36573982239",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "TH",
-    "city": "Bangkok",
-    "isp": "True Online"
-  },
-  {
-    "proxy": "103.139.98.90:8080",
-    "response_time": "1910.57896614075",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "ID",
-    "city": "Unknown",
-    "isp": "PT. DIGITAL NETWORK SETIAWAN"
-  },
-  {
-    "proxy": "103.171.255.243:8080",
-    "response_time": "896.232128143311",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "ID",
-    "city": "Unknown",
-    "isp": "PT Zona Kolektif Indonesia"
-  },
-  {
-    "proxy": "194.93.28.243:1080",
-    "response_time": "5322.95727729797",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "RU",
-    "city": "Novosibirsk",
-    "isp": "SKTV Spektr LLC"
-  },
-  {
-    "proxy": "72.10.160.91:17435",
-    "response_time": "2754.07648086548",
+    "proxy": "67.43.236.18:7783",
+    "response_time": "3464.16473388672",
     "google_pass": "1",
     "anonymity": "Elite",
     "country": "CA",
@@ -2439,44 +2097,89 @@
     "isp": "GTCOMM"
   },
   {
-    "proxy": "34.207.150.233:3128",
-    "response_time": "2390.90156555176",
+    "proxy": "16.51.42.19:3128",
+    "response_time": "3118.20030212402",
+    "google_pass": "0",
+    "anonymity": "Elite",
+    "country": "AU",
+    "city": "Melbourne",
+    "isp": "AMAZON-02"
+  },
+  {
+    "proxy": "102.211.145.37:8080",
+    "response_time": "5428.26962471008",
     "google_pass": "0",
     "anonymity": "Anonymous",
+    "country": "KE",
+    "city": "Nairobi",
+    "isp": "Unwired-Communications"
+  },
+  {
+    "proxy": "154.0.154.83:8080",
+    "response_time": "9149.07264709473",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "TZ",
+    "city": "Unknown",
+    "isp": "Habari Node"
+  },
+  {
+    "proxy": "112.201.237.191:8080",
+    "response_time": "2208.07337760925",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "PH",
+    "city": "Potrero",
+    "isp": "Philippine Long Distance Telephone Company"
+  },
+  {
+    "proxy": "176.88.168.109:8080",
+    "response_time": "5415.9095287323",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "TR",
+    "city": "Kilis",
+    "isp": "Superonline Iletisim Hizmetleri A.S."
+  },
+  {
+    "proxy": "34.207.150.233:3128",
+    "response_time": "4082.17668533325",
+    "google_pass": "0",
+    "anonymity": "Elite",
     "country": "US",
     "city": "Ashburn",
     "isp": "AMAZON-AES"
   },
   {
-    "proxy": "3.148.168.54:42949",
-    "response_time": "4633.31532478333",
-    "google_pass": "0",
+    "proxy": "72.10.160.170:13785",
+    "response_time": "3544.54660415649",
+    "google_pass": "1",
     "anonymity": "Elite",
+    "country": "CA",
+    "city": "Unknown",
+    "isp": "GTCOMM"
+  },
+  {
+    "proxy": "3.148.168.54:42949",
+    "response_time": "2980.44514656067",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
     "country": "US",
     "city": "Columbus",
     "isp": "AMAZON-02"
   },
   {
-    "proxy": "18.143.165.238:13040",
-    "response_time": "7959.13743972778",
-    "google_pass": "0",
-    "anonymity": "Elite",
-    "country": "SG",
-    "city": "Singapore",
-    "isp": "AMAZON-02"
-  },
-  {
     "proxy": "13.125.7.17:4286",
-    "response_time": "12411.6764068604",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
+    "response_time": "6265.789270401",
+    "google_pass": "1",
+    "anonymity": "Elite",
     "country": "KR",
     "city": "Unknown",
     "isp": "AMAZON-02"
   },
   {
     "proxy": "37.27.253.44:8030",
-    "response_time": "2701.77364349365",
+    "response_time": "3494.50707435608",
     "google_pass": "1",
     "anonymity": "Elite",
     "country": "FI",
@@ -2484,143 +2187,71 @@
     "isp": "Hetzner Online GmbH"
   },
   {
+    "proxy": "72.10.160.90:15931",
+    "response_time": "3344.46382522583",
+    "google_pass": "1",
+    "anonymity": "Elite",
+    "country": "CA",
+    "city": "Unknown",
+    "isp": "GTCOMM"
+  },
+  {
     "proxy": "18.230.59.125:47676",
-    "response_time": "4727.13232040405",
+    "response_time": "3537.34588623047",
     "google_pass": "0",
-    "anonymity": "Anonymous",
+    "anonymity": "Elite",
     "country": "BR",
     "city": "S\u00e3o Paulo",
     "isp": "AMAZON-02"
   },
   {
     "proxy": "56.124.106.18:59166",
-    "response_time": "3992.81048774719",
+    "response_time": "4611.73701286316",
     "google_pass": "0",
-    "anonymity": "Elite",
+    "anonymity": "Anonymous",
     "country": "BR",
     "city": "S\u00e3o Paulo",
     "isp": "AMAZON-02"
   },
   {
-    "proxy": "160.25.196.11:8090",
-    "response_time": "5472.27263450623",
+    "proxy": "219.92.103.218:8080",
+    "response_time": "7736.5095615387",
     "google_pass": "0",
     "anonymity": "Anonymous",
-    "country": "ID",
-    "city": "Bojonegoro",
-    "isp": "PT Rnet Mitra Sentosa"
+    "country": "MY",
+    "city": "Petaling Jaya",
+    "isp": "TM TECHNOLOGY SERVICES SDN. BHD."
   },
   {
-    "proxy": "115.87.207.186:8080",
-    "response_time": "1319.53167915344",
+    "proxy": "37.27.253.44:8018",
+    "response_time": "3215.07096290588",
+    "google_pass": "0",
+    "anonymity": "Elite",
+    "country": "FI",
+    "city": "Helsinki",
+    "isp": "Hetzner Online GmbH"
+  },
+  {
+    "proxy": "49.49.185.96:8080",
+    "response_time": "7509.84477996826",
     "google_pass": "0",
     "anonymity": "Anonymous",
     "country": "TH",
-    "city": "Bangkok",
-    "isp": "True Online"
+    "city": "Ban Khok Lam Phan",
+    "isp": "Triple T Broadband Public Company Limited"
   },
   {
-    "proxy": "103.105.9.197:8080",
-    "response_time": "4814.87679481506",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "ID",
-    "city": "Unknown",
-    "isp": "PT Indo Teknologi Logistic"
-  },
-  {
-    "proxy": "103.169.72.156:3128",
-    "response_time": "4114.73345756531",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "ID",
-    "city": "Jakarta",
-    "isp": "PT Maxindo Mitra Solusi"
-  },
-  {
-    "proxy": "31.145.131.106:9090",
-    "response_time": "6778.19228172302",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "TR",
-    "city": "Istanbul",
-    "isp": "Vodafone Net Iletisim Hizmetler AS"
-  },
-  {
-    "proxy": "45.123.142.9:8181",
-    "response_time": "2782.83929824829",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "ID",
-    "city": "Unknown",
-    "isp": "PT Anten Sarana Teknologi"
-  },
-  {
-    "proxy": "103.119.52.147:8080",
-    "response_time": "6703.58681678772",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "ID",
-    "city": "Depok",
-    "isp": "PT. Eka Mas Republik"
-  },
-  {
-    "proxy": "103.139.126.31:8080",
-    "response_time": "3900.11405944824",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "ID",
-    "city": "Indramayu",
-    "isp": "PT. MITRACOM SOLUSI TEKNOLOGI"
-  },
-  {
-    "proxy": "103.189.250.65:8080",
-    "response_time": "2467.98348426819",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "ID",
-    "city": "East Java",
-    "isp": "PT Pandawa Lima Java Network"
-  },
-  {
-    "proxy": "190.221.139.22:3128",
-    "response_time": "7188.03572654724",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "AR",
-    "city": "San Miguel de Tucum\u00e1n",
-    "isp": "Techtel LMDS Comunicaciones Interactivas S.A."
-  },
-  {
-    "proxy": "43.159.146.191:3128",
-    "response_time": "4914.30902481079",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "US",
-    "city": "Santa Clara",
-    "isp": "Tencent Building, Kejizhongyi Avenue"
-  },
-  {
-    "proxy": "177.253.224.58:8085",
-    "response_time": "3636.13748550415",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "CO",
-    "city": "Medell\u00edn",
-    "isp": "Colombia Movil"
-  },
-  {
-    "proxy": "85.133.240.75:8080",
-    "response_time": "3966.0313129425",
+    "proxy": "177.55.178.92:8080",
+    "response_time": "3835.61563491821",
     "google_pass": "0",
     "anonymity": "Elite",
-    "country": "IR",
-    "city": "Unknown",
-    "isp": "Respina Networks & Beyond PJSC"
+    "country": "BR",
+    "city": "Pedro Leopoldo",
+    "isp": "BTT TELECOMUNICACOES S.A."
   },
   {
     "proxy": "37.27.253.44:8026",
-    "response_time": "4084.23495292664",
+    "response_time": "2995.59497833252",
     "google_pass": "1",
     "anonymity": "Elite",
     "country": "FI",
@@ -2628,165 +2259,210 @@
     "isp": "Hetzner Online GmbH"
   },
   {
-    "proxy": "179.60.53.25:999",
-    "response_time": "3675.78554153442",
-    "google_pass": "0",
-    "anonymity": "Elite",
-    "country": "EC",
-    "city": "Sigsig",
-    "isp": "UFINET PANAMA S.A."
-  },
-  {
-    "proxy": "38.65.174.107:999",
-    "response_time": "5603.42597961426",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "MX",
-    "city": "Cadereyta",
-    "isp": "Wantelco SAS de CV"
-  },
-  {
-    "proxy": "161.132.40.191:8080",
-    "response_time": "3129.07481193542",
+    "proxy": "72.10.160.92:10909",
+    "response_time": "3710.21628379822",
     "google_pass": "1",
     "anonymity": "Elite",
-    "country": "PE",
+    "country": "CA",
     "city": "Unknown",
-    "isp": "Red Cientifica Peruana"
+    "isp": "GTCOMM"
   },
   {
-    "proxy": "117.161.170.163:9058",
-    "response_time": "9647.23038673401",
+    "proxy": "70.36.109.21:60004",
+    "response_time": "5766.3745880127",
     "google_pass": "0",
     "anonymity": "Anonymous",
-    "country": "CN",
-    "city": "Unknown",
-    "isp": "China Mobile Communications Group Co., Ltd."
+    "country": "US",
+    "city": "Los Angeles",
+    "isp": "PERFECT-INTERNATIONAL"
   },
   {
-    "proxy": "49.48.45.244:8081",
-    "response_time": "8562.51835823059",
-    "google_pass": "1",
-    "anonymity": "Anonymous",
-    "country": "TH",
-    "city": "Pattaya",
-    "isp": "Triple T Broadband Public Company Limited"
-  },
-  {
-    "proxy": "195.62.50.167:8085",
-    "response_time": "2929.12673950195",
+    "proxy": "16.26.88.4:28095",
+    "response_time": "5231.77552223206",
     "google_pass": "0",
     "anonymity": "Anonymous",
-    "country": "TR",
-    "city": "Unknown",
-    "isp": "Unknown"
-  },
-  {
-    "proxy": "200.217.165.114:8080",
-    "response_time": "8099.18880462646",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "BR",
-    "city": "Montes Claros",
-    "isp": "V tal"
-  },
-  {
-    "proxy": "139.162.29.116:8888",
-    "response_time": "746.881008148193",
-    "google_pass": "1",
-    "anonymity": "Elite",
-    "country": "SG",
-    "city": "Singapore",
-    "isp": "Akamai Connected Cloud"
-  },
-  {
-    "proxy": "103.214.102.172:8083",
-    "response_time": "3851.74512863159",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "ID",
-    "city": "Batam",
-    "isp": "PT SURYA TEKNIKA PRATAMA"
+    "country": "AU",
+    "city": "Melbourne",
+    "isp": "AMAZON-02"
   },
   {
     "proxy": "124.16.111.129:10808",
-    "response_time": "1874.53556060791",
+    "response_time": "3806.55908584595",
     "google_pass": "1",
-    "anonymity": "Elite",
+    "anonymity": "Anonymous",
     "country": "CN",
     "city": "Unknown",
     "isp": "Computer Network Information Center of Chinese Academy of Sciences CNIC-CAS"
   },
   {
-    "proxy": "49.150.63.236:8082",
-    "response_time": "1638.54336738586",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "PH",
-    "city": "Tarlac City",
-    "isp": "Philippine Long Distance Telephone Company"
-  },
-  {
-    "proxy": "38.52.208.49:999",
-    "response_time": "3742.20180511475",
-    "google_pass": "0",
-    "anonymity": "Anonymous",
-    "country": "GT",
-    "city": "Unknown",
-    "isp": "CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA"
-  },
-  {
-    "proxy": "142.93.51.31:3128",
-    "response_time": "4519.06776428223",
-    "google_pass": "1",
-    "anonymity": "Elite",
-    "country": "US",
-    "city": "North Bergen",
-    "isp": "DIGITALOCEAN-ASN"
-  },
-  {
-    "proxy": "50.200.166.130:8080",
-    "response_time": "6354.79927062988",
+    "proxy": "66.78.40.66:1080",
+    "response_time": "2814.92161750793",
     "google_pass": "1",
     "anonymity": "Anonymous",
     "country": "US",
-    "city": "Houston",
-    "isp": "COMCAST-7922"
-  },
-  {
-    "proxy": "72.10.160.90:16669",
-    "response_time": "8429.46529388428",
-    "google_pass": "1",
-    "anonymity": "Elite",
-    "country": "CA",
     "city": "Unknown",
-    "isp": "GTCOMM"
+    "isp": "Aokigahara SRL"
   },
   {
-    "proxy": "72.10.160.172:16535",
-    "response_time": "4275.50745010376",
-    "google_pass": "1",
-    "anonymity": "Elite",
-    "country": "CA",
-    "city": "Unknown",
-    "isp": "GTCOMM"
-  },
-  {
-    "proxy": "38.7.18.149:999",
-    "response_time": "3639.09816741943",
+    "proxy": "114.244.79.143:9000",
+    "response_time": "7160.03370285034",
     "google_pass": "0",
     "anonymity": "Anonymous",
-    "country": "MX",
-    "city": "Nueva Italia de Ruiz",
-    "isp": "INTERNET TELEFONIA Y TV DE MICHOACAN SA DE CV"
+    "country": "CN",
+    "city": "Beijing",
+    "isp": "China Unicom Beijing Province Network"
   },
   {
     "proxy": "106.225.148.45:655",
-    "response_time": "3859.50469970703",
+    "response_time": "7461.48133277893",
     "google_pass": "0",
     "anonymity": "Elite",
     "country": "CN",
     "city": "Unknown",
     "isp": "CHINANET Jiangx province IDC network"
+  },
+  {
+    "proxy": "118.71.170.122:16000",
+    "response_time": "6321.50483131409",
+    "google_pass": "0",
+    "anonymity": "Elite",
+    "country": "VN",
+    "city": "Ho Chi Minh City",
+    "isp": "FPT Telecom Company"
+  },
+  {
+    "proxy": "58.186.92.97:16000",
+    "response_time": "4600.18444061279",
+    "google_pass": "0",
+    "anonymity": "Elite",
+    "country": "VN",
+    "city": "Hanoi",
+    "isp": "FPT Telecom Company"
+  },
+  {
+    "proxy": "105.157.152.30:39811",
+    "response_time": "1393.75495910645",
+    "google_pass": "1",
+    "anonymity": "Elite",
+    "country": "MA",
+    "city": "Rabat",
+    "isp": "MT-MPLS"
+  },
+  {
+    "proxy": "67.43.236.22:32573",
+    "response_time": "7575.55532455444",
+    "google_pass": "1",
+    "anonymity": "Elite",
+    "country": "CA",
+    "city": "Unknown",
+    "isp": "GTCOMM"
+  },
+  {
+    "proxy": "67.43.228.250:1241",
+    "response_time": "4928.52067947388",
+    "google_pass": "1",
+    "anonymity": "Elite",
+    "country": "CA",
+    "city": "Unknown",
+    "isp": "GTCOMM"
+  },
+  {
+    "proxy": "67.43.228.251:1241",
+    "response_time": "4864.11237716675",
+    "google_pass": "1",
+    "anonymity": "Elite",
+    "country": "CA",
+    "city": "Unknown",
+    "isp": "GTCOMM"
+  },
+  {
+    "proxy": "67.43.236.18:12039",
+    "response_time": "3448.00353050232",
+    "google_pass": "1",
+    "anonymity": "Elite",
+    "country": "CA",
+    "city": "Unknown",
+    "isp": "GTCOMM"
+  },
+  {
+    "proxy": "1.54.77.215:16000",
+    "response_time": "1503.54599952698",
+    "google_pass": "1",
+    "anonymity": "Elite",
+    "country": "VN",
+    "city": "Hanoi",
+    "isp": "FPT Telecom Company"
+  },
+  {
+    "proxy": "1.55.199.63:16000",
+    "response_time": "3108.60705375671",
+    "google_pass": "1",
+    "anonymity": "Elite",
+    "country": "VN",
+    "city": "Hanoi",
+    "isp": "FPT Telecom Company"
+  },
+  {
+    "proxy": "67.43.228.253:1241",
+    "response_time": "3796.93078994751",
+    "google_pass": "1",
+    "anonymity": "Elite",
+    "country": "CA",
+    "city": "Unknown",
+    "isp": "GTCOMM"
+  },
+  {
+    "proxy": "152.53.194.46:8017",
+    "response_time": "4102.24437713623",
+    "google_pass": "1",
+    "anonymity": "Elite",
+    "country": "AT",
+    "city": "Unknown",
+    "isp": "Unknown"
+  },
+  {
+    "proxy": "152.53.194.46:8018",
+    "response_time": "5065.72914123535",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "AT",
+    "city": "Unknown",
+    "isp": "Unknown"
+  },
+  {
+    "proxy": "47.239.131.122:4000",
+    "response_time": "1061.72871589661",
+    "google_pass": "1",
+    "anonymity": "Elite",
+    "country": "HK",
+    "city": "Hong Kong",
+    "isp": "Alibaba US Technology Co., Ltd."
+  },
+  {
+    "proxy": "152.53.194.46:8033",
+    "response_time": "2721.59671783447",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "AT",
+    "city": "Unknown",
+    "isp": "Unknown"
+  },
+  {
+    "proxy": "152.53.194.46:8040",
+    "response_time": "4144.08111572266",
+    "google_pass": "0",
+    "anonymity": "Anonymous",
+    "country": "AT",
+    "city": "Unknown",
+    "isp": "Unknown"
+  },
+  {
+    "proxy": "152.53.194.46:8079",
+    "response_time": "2701.56931877136",
+    "google_pass": "1",
+    "anonymity": "Elite",
+    "country": "AT",
+    "city": "Unknown",
+    "isp": "Unknown"
   }
 ]
